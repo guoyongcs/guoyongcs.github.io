@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhuangwei Zhuang | Yong Guo</title>
+    <link>/authors/zhuangwei-zhuang/</link>
+      <atom:link href="/authors/zhuangwei-zhuang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhuangwei Zhuang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Oct 2018 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Zhuangwei Zhuang</title>
+      <link>/authors/zhuangwei-zhuang/</link>
+    </image>
+    
+    <item>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

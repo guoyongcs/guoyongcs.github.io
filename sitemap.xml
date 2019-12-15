@@ -3,31 +3,227 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/authors/jian-chen/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/authors/junzhou-huang/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mingkui-tan/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nat/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peilin-zhao/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication_types/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/qi-chen/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yin-zheng/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yong-guo/</loc>
+    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-03-29T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/aegan/</loc>
+    <lastmod>2019-03-29T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/qinfeng-shi/</loc>
+    <lastmod>2019-03-29T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/qingyao-wu/</loc>
+    <lastmod>2019-03-29T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bohan-zhuang/</loc>
+    <lastmod>2018-10-28T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dcp/</loc>
+    <lastmod>2018-10-28T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jing-liu/</loc>
+    <lastmod>2018-10-28T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jinhui-zhu/</loc>
+    <lastmod>2018-10-28T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhuangwei-zhuang/</loc>
+    <lastmod>2018-10-28T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lccgan/</loc>
+    <lastmod>2018-06-13T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chunhua-shen/</loc>
+    <lastmod>2018-06-13T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jiezhang-cao/</loc>
+    <lastmod>2018-06-13T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yong-guo-co-first-author/</loc>
+    <lastmod>2018-06-13T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chaorui-deng/</loc>
+    <lastmod>2018-02-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mbn/</loc>
+    <lastmod>2018-02-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/chao-han/</loc>
+    <lastmod>2016-07-01T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jin-hui-zhu/</loc>
+    <lastmod>2016-07-01T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/patg/</loc>
+    <lastmod>2016-07-01T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/qing-yao-wu/</loc>
+    <lastmod>2016-07-01T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yun-kun-tan/</loc>
+    <lastmod>2016-07-01T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/adapting-education-style/</loc>
+    <lastmod>2014-12-24T17:41:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2014-12-24T17:41:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/education/</loc>
+    <lastmod>2014-12-24T17:41:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2014-12-24T17:41:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anton-van-den-hengel/</loc>
+    <lastmod>2011-11-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mwbp/</loc>
+    <lastmod>2011-11-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/qing-du/</loc>
+    <lastmod>2011-11-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/drn/</loc>
+    <lastmod>2010-09-19T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yanwu-xu/</loc>
+    <lastmod>2010-09-19T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/langyuan-mo/</loc>
+    <lastmod>2010-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/jwae/</loc>
+    <lastmod>2010-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yong/</loc>
   </url>
   
   <url>

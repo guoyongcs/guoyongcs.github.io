@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qingyao Wu | Yong Guo</title>
+    <link>/authors/qingyao-wu/</link>
+      <atom:link href="/authors/qingyao-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qingyao Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2019 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Qingyao Wu</title>
+      <link>/authors/qingyao-wu/</link>
+    </image>
+    
+    <item>
+      <title>Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis</title>
+      <link>/publication/aegan/</link>
+      <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
+      <guid>/publication/aegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Learning with Local Coordinate Coding</title>
+      <link>/publication/lccgan/</link>
+      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/lccgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double Forward Propagation for Memorized Batch Normalization</title>
+      <link>/publication/mbn/</link>
+      <pubDate>Tue, 06 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/mbn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

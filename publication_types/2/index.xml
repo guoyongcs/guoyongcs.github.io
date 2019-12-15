@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Yong Guo</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2019 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis</title>
+      <link>/publication/aegan/</link>
+      <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
+      <guid>/publication/aegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online feature selection of class imbalance via pa algorithm</title>
+      <link>/publication/patg/</link>
+      <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
+      <guid>/publication/patg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-way Backpropagation for Training Compact Deep Neural Networks</title>
+      <link>/publication/mwbp/</link>
+      <pubDate>Sun, 06 Nov 2011 00:18:12 -0800</pubDate>
+      <guid>/publication/mwbp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual Reconstruction Nets for Image Super-Resolution with Gradient Sensitive Loss</title>
+      <link>/publication/drn/</link>
+      <pubDate>Sun, 19 Sep 2010 00:18:12 -0800</pubDate>
+      <guid>/publication/drn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Joint Wasserstein Auto-Encoders for Joint Distribution Matching</title>
+      <link>/publication/jwae/</link>
+      <pubDate>Mon, 06 Sep 2010 00:18:12 -0800</pubDate>
+      <guid>/publication/jwae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

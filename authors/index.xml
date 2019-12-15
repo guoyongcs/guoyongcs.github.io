@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
+    <title>Authors | Yong Guo</title>
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,12 +13,211 @@
     </image>
     
     <item>
+      <title>Jian Chen</title>
+      <link>/authors/jian-chen/</link>
+      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/jian-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junzhou Huang</title>
+      <link>/authors/junzhou-huang/</link>
+      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/junzhou-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peilin Zhao</title>
+      <link>/authors/peilin-zhao/</link>
+      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/peilin-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Chen</title>
+      <link>/authors/qi-chen/</link>
+      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/qi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yin Zheng</title>
+      <link>/authors/yin-zheng/</link>
+      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/yin-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Guo</title>
+      <link>/authors/yong-guo/</link>
+      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qinfeng Shi</title>
+      <link>/authors/qinfeng-shi/</link>
+      <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/qinfeng-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingyao Wu</title>
+      <link>/authors/qingyao-wu/</link>
+      <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/qingyao-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bohan Zhuang</title>
+      <link>/authors/bohan-zhuang/</link>
+      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/bohan-zhuang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Liu</title>
+      <link>/authors/jing-liu/</link>
+      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/jing-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinhui Zhu</title>
+      <link>/authors/jinhui-zhu/</link>
+      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/jinhui-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhuangwei Zhuang</title>
+      <link>/authors/zhuangwei-zhuang/</link>
+      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/zhuangwei-zhuang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chunhua Shen</title>
+      <link>/authors/chunhua-shen/</link>
+      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/chunhua-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiezhang Cao</title>
+      <link>/authors/jiezhang-cao/</link>
+      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/jiezhang-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Guo (co-first author)</title>
+      <link>/authors/yong-guo-co-first-author/</link>
+      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/yong-guo-co-first-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chaorui Deng</title>
+      <link>/authors/chaorui-deng/</link>
+      <pubDate>Tue, 06 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/chaorui-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chao Han</title>
+      <link>/authors/chao-han/</link>
+      <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
+      <guid>/authors/chao-han/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jin-Hui Zhu</title>
+      <link>/authors/jin-hui-zhu/</link>
+      <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
+      <guid>/authors/jin-hui-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qing-Yao Wu</title>
+      <link>/authors/qing-yao-wu/</link>
+      <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
+      <guid>/authors/qing-yao-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yun-Kun Tan</title>
+      <link>/authors/yun-kun-tan/</link>
+      <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
+      <guid>/authors/yun-kun-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anton Van Den Hengel</title>
+      <link>/authors/anton-van-den-hengel/</link>
+      <pubDate>Sun, 06 Nov 2011 00:18:12 -0800</pubDate>
+      <guid>/authors/anton-van-den-hengel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qing Du</title>
+      <link>/authors/qing-du/</link>
+      <pubDate>Sun, 06 Nov 2011 00:18:12 -0800</pubDate>
+      <guid>/authors/qing-du/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanwu Xu</title>
+      <link>/authors/yanwu-xu/</link>
+      <pubDate>Sun, 19 Sep 2010 00:18:12 -0800</pubDate>
+      <guid>/authors/yanwu-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Langyuan Mo</title>
+      <link>/authors/langyuan-mo/</link>
+      <pubDate>Mon, 06 Sep 2010 00:18:12 -0800</pubDate>
+      <guid>/authors/langyuan-mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>/authors/yong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+      <guid>/authors/yong/</guid>
+      <description>&lt;p&gt;Yong Guo is a Ph.D. candidate with the School of Software Engineering at South China University of Technology. He also received his bachelor degree in Software Engineering from the same university in 2016. His research interests include machine learning and computer vision.&lt;/p&gt;
 </description>
     </item>
     

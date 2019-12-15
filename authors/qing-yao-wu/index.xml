@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qing-Yao Wu | Yong Guo</title>
+    <link>/authors/qing-yao-wu/</link>
+      <atom:link href="/authors/qing-yao-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qing-Yao Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Qing-Yao Wu</title>
+      <link>/authors/qing-yao-wu/</link>
+    </image>
+    
+    <item>
+      <title>Online feature selection of class imbalance via pa algorithm</title>
+      <link>/publication/patg/</link>
+      <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
+      <guid>/publication/patg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
