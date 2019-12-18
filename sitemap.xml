@@ -48,11 +48,6 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-09-06T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/qi-chen/</loc>
     <lastmod>2019-09-06T00:18:12-08:00</lastmod>
   </url>
@@ -178,11 +173,6 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2014-12-24T17:41:30+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/anton-van-den-hengel/</loc>
     <lastmod>2011-11-06T00:18:12-08:00</lastmod>
   </url>
@@ -222,7 +212,18 @@
   </url>
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
+    <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
   
   <url>
