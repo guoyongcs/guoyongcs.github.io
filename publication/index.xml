@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
+      <link>/publication/drn/</link>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <guid>/publication/drn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
       <link>/publication/nat/</link>
       <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
@@ -66,14 +74,6 @@
       <link>/publication/mwbp/</link>
       <pubDate>Sun, 06 Nov 2011 00:18:12 -0800</pubDate>
       <guid>/publication/mwbp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dual Reconstruction Nets for Image Super-Resolution with Gradient Sensitive Loss</title>
-      <link>/publication/drn/</link>
-      <pubDate>Sun, 19 Sep 2010 00:18:12 -0800</pubDate>
-      <guid>/publication/drn/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/authors/jiezhang-cao/</link>
       <atom:link href="/authors/jiezhang-cao/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiezhang Cao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jun 2018 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jiezhang Cao</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Adversarial Learning with Local Coordinate Coding</title>
-      <link>/publication/lccgan/</link>
-      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/lccgan/</guid>
+      <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
+      <link>/publication/drn/</link>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <guid>/publication/drn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dual Reconstruction Nets for Image Super-Resolution with Gradient Sensitive Loss</title>
-      <link>/publication/drn/</link>
-      <pubDate>Sun, 19 Sep 2010 00:18:12 -0800</pubDate>
-      <guid>/publication/drn/</guid>
+      <title>Adversarial Learning with Local Coordinate Coding</title>
+      <link>/publication/lccgan/</link>
+      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/lccgan/</guid>
       <description></description>
     </item>
     

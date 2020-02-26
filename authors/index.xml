@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
       <description></description>
     </item>
@@ -23,8 +23,56 @@
     <item>
       <title>Jian Chen</title>
       <link>/authors/jian-chen/</link>
-      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
       <guid>/authors/jian-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiezhang Cao</title>
+      <link>/authors/jiezhang-cao/</link>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/jiezhang-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingdong Wang</title>
+      <link>/authors/jingdong-wang/</link>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/jingdong-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Chen</title>
+      <link>/authors/qi-chen/</link>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/qi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanwu Xu</title>
+      <link>/authors/yanwu-xu/</link>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/yanwu-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeshuai Deng</title>
+      <link>/authors/zeshuai-deng/</link>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/zeshuai-deng/</guid>
       <description></description>
     </item>
     
@@ -37,26 +85,10 @@
     </item>
     
     <item>
-      <title>Mingkui Tan</title>
-      <link>/authors/mingkui-tan/</link>
-      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
-      <guid>/authors/mingkui-tan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Peilin Zhao</title>
       <link>/authors/peilin-zhao/</link>
       <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
       <guid>/authors/peilin-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qi Chen</title>
-      <link>/authors/qi-chen/</link>
-      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
-      <guid>/authors/qi-chen/</guid>
       <description></description>
     </item>
     
@@ -125,14 +157,6 @@
     </item>
     
     <item>
-      <title>Jiezhang Cao</title>
-      <link>/authors/jiezhang-cao/</link>
-      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
-      <guid>/authors/jiezhang-cao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chaorui Deng</title>
       <link>/authors/chaorui-deng/</link>
       <pubDate>Tue, 06 Feb 2018 00:18:12 -0800</pubDate>
@@ -185,14 +209,6 @@
       <link>/authors/qing-du/</link>
       <pubDate>Sun, 06 Nov 2011 00:18:12 -0800</pubDate>
       <guid>/authors/qing-du/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yanwu Xu</title>
-      <link>/authors/yanwu-xu/</link>
-      <pubDate>Sun, 19 Sep 2010 00:18:12 -0800</pubDate>
-      <guid>/authors/yanwu-xu/</guid>
       <description></description>
     </item>
     

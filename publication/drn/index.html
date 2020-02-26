@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="preprint arXiv, 2018">
+  <meta name="description" content="Accetped in CVPR, 2020">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/drn/">
@@ -113,14 +113,14 @@
   
   <meta property="og:site_name" content="Yong Guo">
   <meta property="og:url" content="/publication/drn/">
-  <meta property="og:title" content="Dual Reconstruction Nets for Image Super-Resolution with Gradient Sensitive Loss | Yong Guo">
-  <meta property="og:description" content="preprint arXiv, 2018"><meta property="og:image" content="/publication/drn/featured.jpg">
+  <meta property="og:title" content="Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution | Yong Guo">
+  <meta property="og:description" content="Accetped in CVPR, 2020"><meta property="og:image" content="/publication/drn/featured.jpg">
   <meta property="twitter:image" content="/publication/drn/featured.jpg"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2010-09-19T00:18:12-08:00">
+      <meta property="article:published_time" content="2020-02-24T00:18:12-08:00">
     
-    <meta property="article:modified_time" content="2010-09-19T00:18:12-08:00">
+    <meta property="article:modified_time" content="2020-02-24T00:18:12-08:00">
   
 
   
@@ -146,14 +146,14 @@
     "@type": "WebPage",
     "@id": "/publication/drn/"
   },
-  "headline": "Dual Reconstruction Nets for Image Super-Resolution with Gradient Sensitive Loss",
+  "headline": "Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution",
   
   "image": [
     "/publication/drn/featured.jpg"
   ],
   
-  "datePublished": "2010-09-19T00:18:12-08:00",
-  "dateModified": "2010-09-19T00:18:12-08:00",
+  "datePublished": "2020-02-24T00:18:12-08:00",
+  "dateModified": "2020-02-24T00:18:12-08:00",
   
   "author": {
     "@type": "Person",
@@ -168,7 +168,7 @@
       "url": "/img/icon-512.png"
     }
   },
-  "description": "preprint arXiv, 2018"
+  "description": "Accetped in CVPR, 2020"
 }
 </script>
 
@@ -187,7 +187,7 @@
 
 
 
-  <title>Dual Reconstruction Nets for Image Super-Resolution with Gradient Sensitive Loss | Yong Guo</title>
+  <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution | Yong Guo</title>
 
 </head>
 
@@ -434,7 +434,7 @@
   
   
 <div class="article-container pt-3">
-  <h2> <strong> Dual Reconstruction Nets for Image Super-Resolution with Gradient Sensitive Loss </strong></h2>
+  <h2> <strong> Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution </strong></h2>
 
   
   
@@ -453,7 +453,7 @@
 
 
   
-  <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong></a></span>, <span><a href="/authors/qi-chen/">Qi Chen</a></span>, <span><a href="/authors/jian-chen/">Jian Chen</a></span>, <span><a href="/authors/junzhou-huang/">Junzhou Huang</a></span>, <span><a href="/authors/yanwu-xu/">Yanwu Xu</a></span>, <span><a href="/authors/jiezhang-cao/">Jiezhang Cao</a></span>, <span><a href="/authors/peilin-zhao/">Peilin Zhao</a></span>, <span><a href="/authors/mingkui-tan/">Mingkui Tan</a></span>
+  <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong></a></span>, <span><a href="/authors/qi-chen/">Qi Chen</a></span>, <span><a href="/authors/jiezhang-cao/">Jiezhang Cao</a></span>, <span><a href="/authors/zeshuai-deng/">Zeshuai Deng</a></span>, <span><a href="/authors/jian-chen/">Jian Chen</a></span>, <span><a href="/authors/yanwu-xu/">Yanwu Xu</a></span>, <span><a href="/authors/jingdong-wang/">Jingdong Wang</a></span>, <span><a href="/authors/mingkui-tan/">Mingkui Tan</a></span>
 
   </div>
   
@@ -543,7 +543,7 @@
     
     <div class="row">
           
-          <div class="col-12 col-md-9">Preprint arXiv</div>
+          <div class="col-12 col-md-9">Published in <strong>CVPR 2020</strong></div>
      </div>
 
     <div class="d-md-none space-below"></div>
@@ -553,7 +553,7 @@
     <h3>Abstract</h3>
     <p class="pub-abstract">
       <DIV align="justify">
-      Designing effective architectures is one of the key factors behind the success of deep neural networks. Existing deep architectures are either manually designed or automatically searched by some Neural Architecture Search (NAS) methods. However, even a well-searched architecture may still contain many non-significant or redundant modules or operations (eg, convolution or pooling), which may not only incur substantial memory consumption and computation cost but also deteriorate the performance. Thus, it is necessary to optimize the operations inside an architecture to improve the performance without introducing extra computation cost. Unfortunately, such a constrained optimization problem is NP-hard. To make the problem feasible, we cast the optimization problem into a Markov decision process (MDP) and seek to learn a Neural Architecture Transformer (NAT) to replace the redundant operations with the more computationally efficient ones (eg, skip connection or directly removing the connection). Based on MDP, we learn NAT by exploiting reinforcement learning to obtain the optimization policies wrt different architectures. To verify the effectiveness of the proposed strategies, we apply NAT on both hand-crafted architectures and NAS based architectures. Extensive experiments on two benchmark datasets, ie, CIFAR-10 and ImageNet, demonstrate that the transformed architecture by NAT significantly outperforms both its original form and those architectures optimized by existing methods.
+      Deep neural networks have exhibited promising performance in image super-resolution (SR) by learning a non-linear mapping function from low-resolution (LR) images to high-resolution (HR) images. However, there are two underlying limitations to existing SR methods. First, learning the mapping function from LR to HR images is typically an ill-posed problem, because there exist infinite HR images that can be downsampled to the same LR image. As a result,the space of the possible functions can be extremely large, which makes it hard to find a good solution. Second, the paired LR-HR data may be unavailable in real-world applications and the underlying degradation method is often unknown. For such a more general case, existing SR models often incur the adaptation problem and yield poor performance. To address the above issues, we propose a dual regression scheme by introducing an additional constrainton LR data to reduce the space of the possible functions.Specifically, besides the mapping from LR to HR images,we learn an additional dual regression mapping to reconstruct LR images, which forms a closed-loop to provide additional supervision. More critically, since the dual regression process does not depend on  HR images, we can directly learn from the LR images. In this sense, we can easily adapt SR models to real-world data, e.g., raw video frames from YouTube. Extensive experiments on the SR tasks with paired training data and unpaired real-world data demonstrate our superiority over existing methods.
       </DIV>
     </p>
     
