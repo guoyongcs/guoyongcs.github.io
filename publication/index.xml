@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Multi-way Backpropagation for Training Compact Deep Neural Networks</title>
+      <link>/publication/mwbp/</link>
+      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
+      <guid>/publication/mwbp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
       <link>/publication/drn/</link>
       <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
@@ -66,14 +74,6 @@
       <link>/publication/patg/</link>
       <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
       <guid>/publication/patg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-way Backpropagation for Training Compact Deep Neural Networks</title>
-      <link>/publication/mwbp/</link>
-      <pubDate>Sun, 06 Nov 2011 00:18:12 -0800</pubDate>
-      <guid>/publication/mwbp/</guid>
       <description></description>
     </item>
     

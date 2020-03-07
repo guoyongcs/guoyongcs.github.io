@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,16 +15,48 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anton Van Den Hengel</title>
+      <link>/authors/anton-van-den-hengel/</link>
+      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/anton-van-den-hengel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jian Chen</title>
       <link>/authors/jian-chen/</link>
-      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
       <guid>/authors/jian-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qinfeng Shi</title>
+      <link>/authors/qinfeng-shi/</link>
+      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/qinfeng-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qing Du</title>
+      <link>/authors/qing-du/</link>
+      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/qing-du/</guid>
       <description></description>
     </item>
     
@@ -41,14 +73,6 @@
       <link>/authors/jingdong-wang/</link>
       <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
       <guid>/authors/jingdong-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mingkui Tan</title>
-      <link>/authors/mingkui-tan/</link>
-      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
-      <guid>/authors/mingkui-tan/</guid>
       <description></description>
     </item>
     
@@ -97,14 +121,6 @@
       <link>/authors/yin-zheng/</link>
       <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
       <guid>/authors/yin-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qinfeng Shi</title>
-      <link>/authors/qinfeng-shi/</link>
-      <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
-      <guid>/authors/qinfeng-shi/</guid>
       <description></description>
     </item>
     
@@ -193,22 +209,6 @@
       <link>/authors/yun-kun-tan/</link>
       <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
       <guid>/authors/yun-kun-tan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anton Van Den Hengel</title>
-      <link>/authors/anton-van-den-hengel/</link>
-      <pubDate>Sun, 06 Nov 2011 00:18:12 -0800</pubDate>
-      <guid>/authors/anton-van-den-hengel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qing Du</title>
-      <link>/authors/qing-du/</link>
-      <pubDate>Sun, 06 Nov 2011 00:18:12 -0800</pubDate>
-      <guid>/authors/qing-du/</guid>
       <description></description>
     </item>
     
