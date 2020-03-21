@@ -5,20 +5,12 @@
     <link>/authors/mingkui-tan/</link>
       <atom:link href="/authors/mingkui-tan/index.xml" rel="self" type="application/rss+xml" />
     <description>Mingkui Tan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Mingkui Tan</title>
       <link>/authors/mingkui-tan/</link>
     </image>
-    
-    <item>
-      <title>Multi-way Backpropagation for Training Compact Deep Neural Networks</title>
-      <link>/publication/mwbp/</link>
-      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
-      <guid>/publication/mwbp/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
@@ -46,6 +38,14 @@
     </item>
     
     <item>
+      <title>Multi-way Backpropagation for Training Compact Deep Neural Networks</title>
+      <link>/publication/mwbp/</link>
+      <pubDate>Sat, 02 Mar 2019 00:18:12 -0800</pubDate>
+      <guid>/publication/mwbp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
       <link>/publication/dcp/</link>
       <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
@@ -66,14 +66,6 @@
       <link>/publication/mbn/</link>
       <pubDate>Tue, 06 Feb 2018 00:18:12 -0800</pubDate>
       <guid>/publication/mbn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Joint Wasserstein Auto-Encoders for Joint Distribution Matching</title>
-      <link>/publication/jwae/</link>
-      <pubDate>Mon, 06 Sep 2010 00:18:12 -0800</pubDate>
-      <guid>/publication/jwae/</guid>
       <description></description>
     </item>
     

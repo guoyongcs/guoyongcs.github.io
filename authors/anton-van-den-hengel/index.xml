@@ -5,7 +5,7 @@
     <link>/authors/anton-van-den-hengel/</link>
       <atom:link href="/authors/anton-van-den-hengel/index.xml" rel="self" type="application/rss+xml" />
     <description>Anton Van Den Hengel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Mar 2019 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Anton Van Den Hengel</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Multi-way Backpropagation for Training Compact Deep Neural Networks</title>
       <link>/publication/mwbp/</link>
-      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
+      <pubDate>Sat, 02 Mar 2019 00:18:12 -0800</pubDate>
       <guid>/publication/mwbp/</guid>
       <description></description>
     </item>

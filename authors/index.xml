@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,48 +15,16 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anton Van Den Hengel</title>
-      <link>/authors/anton-van-den-hengel/</link>
-      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
-      <guid>/authors/anton-van-den-hengel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jian Chen</title>
       <link>/authors/jian-chen/</link>
-      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
       <guid>/authors/jian-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mingkui Tan</title>
-      <link>/authors/mingkui-tan/</link>
-      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
-      <guid>/authors/mingkui-tan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qinfeng Shi</title>
-      <link>/authors/qinfeng-shi/</link>
-      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
-      <guid>/authors/qinfeng-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qing Du</title>
-      <link>/authors/qing-du/</link>
-      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
-      <guid>/authors/qing-du/</guid>
       <description></description>
     </item>
     
@@ -73,6 +41,14 @@
       <link>/authors/jingdong-wang/</link>
       <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
       <guid>/authors/jingdong-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
       <description></description>
     </item>
     
@@ -125,10 +101,34 @@
     </item>
     
     <item>
+      <title>Qinfeng Shi</title>
+      <link>/authors/qinfeng-shi/</link>
+      <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/qinfeng-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Qingyao Wu</title>
       <link>/authors/qingyao-wu/</link>
       <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
       <guid>/authors/qingyao-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anton Van Den Hengel</title>
+      <link>/authors/anton-van-den-hengel/</link>
+      <pubDate>Sat, 02 Mar 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/anton-van-den-hengel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qing Du</title>
+      <link>/authors/qing-du/</link>
+      <pubDate>Sat, 02 Mar 2019 00:18:12 -0800</pubDate>
+      <guid>/authors/qing-du/</guid>
       <description></description>
     </item>
     
@@ -213,20 +213,12 @@
     </item>
     
     <item>
-      <title>Langyuan Mo</title>
-      <link>/authors/langyuan-mo/</link>
-      <pubDate>Mon, 06 Sep 2010 00:18:12 -0800</pubDate>
-      <guid>/authors/langyuan-mo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title></title>
       <link>/authors/yong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/yong/</guid>
       <description>&lt;p&gt;I am a Ph.D. candidate with the School of Software Engineering at South China University of Technology. I also received my bachelor degree in Software Engineering from the same university in 2016. My research interests include machine learning and computer vision.
-I served as the &lt;strong&gt;reviewer&lt;/strong&gt; for several top-tier journals and conferences, such as &lt;strong&gt;TIP&lt;/strong&gt;, &lt;strong&gt;NeurIPS&lt;/strong&gt;, &lt;strong&gt;AAAI&lt;/strong&gt;, &lt;strong&gt;UAI&lt;/strong&gt;, &lt;strong&gt;MICCAI&lt;/strong&gt;.&lt;/p&gt;
+I served as the &lt;strong&gt;reviewer&lt;/strong&gt; for several top-tier journals and conferences, such as &lt;strong&gt;TIP&lt;/strong&gt;, &lt;strong&gt;TNNLS&lt;/strong&gt;, &lt;strong&gt;NeurIPS&lt;/strong&gt;, &lt;strong&gt;AAAI&lt;/strong&gt;, &lt;strong&gt;UAI&lt;/strong&gt;, &lt;strong&gt;MICCAI&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     

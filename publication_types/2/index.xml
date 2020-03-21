@@ -5,20 +5,12 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2019 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
-    
-    <item>
-      <title>Multi-way Backpropagation for Training Compact Deep Neural Networks</title>
-      <link>/publication/mwbp/</link>
-      <pubDate>Mon, 02 Mar 2020 00:18:12 -0800</pubDate>
-      <guid>/publication/mwbp/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis</title>
@@ -29,18 +21,18 @@
     </item>
     
     <item>
-      <title>Online Feature Selection of Class Imbalance via PA Algorithm</title>
-      <link>/publication/patg/</link>
-      <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
-      <guid>/publication/patg/</guid>
+      <title>Multi-way Backpropagation for Training Compact Deep Neural Networks</title>
+      <link>/publication/mwbp/</link>
+      <pubDate>Sat, 02 Mar 2019 00:18:12 -0800</pubDate>
+      <guid>/publication/mwbp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Learning Joint Wasserstein Auto-Encoders for Joint Distribution Matching</title>
-      <link>/publication/jwae/</link>
-      <pubDate>Mon, 06 Sep 2010 00:18:12 -0800</pubDate>
-      <guid>/publication/jwae/</guid>
+      <title>Online Feature Selection of Class Imbalance via PA Algorithm</title>
+      <link>/publication/patg/</link>
+      <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
+      <guid>/publication/patg/</guid>
       <description></description>
     </item>
     
