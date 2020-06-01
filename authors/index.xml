@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
       <description></description>
     </item>
@@ -23,8 +23,48 @@
     <item>
       <title>Jian Chen</title>
       <link>/authors/jian-chen/</link>
-      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
       <guid>/authors/jian-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junzhou Huang</title>
+      <link>/authors/junzhou-huang/</link>
+      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/junzhou-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peilin Zhao</title>
+      <link>/authors/peilin-zhao/</link>
+      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/peilin-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaofo Chen</title>
+      <link>/authors/yaofo-chen/</link>
+      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/yaofo-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yin Zheng</title>
+      <link>/authors/yin-zheng/</link>
+      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/yin-zheng/</guid>
       <description></description>
     </item>
     
@@ -41,14 +81,6 @@
       <link>/authors/jingdong-wang/</link>
       <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
       <guid>/authors/jingdong-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mingkui Tan</title>
-      <link>/authors/mingkui-tan/</link>
-      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
-      <guid>/authors/mingkui-tan/</guid>
       <description></description>
     </item>
     
@@ -73,30 +105,6 @@
       <link>/authors/zeshuai-deng/</link>
       <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
       <guid>/authors/zeshuai-deng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Junzhou Huang</title>
-      <link>/authors/junzhou-huang/</link>
-      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
-      <guid>/authors/junzhou-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peilin Zhao</title>
-      <link>/authors/peilin-zhao/</link>
-      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
-      <guid>/authors/peilin-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yin Zheng</title>
-      <link>/authors/yin-zheng/</link>
-      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
-      <guid>/authors/yin-zheng/</guid>
       <description></description>
     </item>
     

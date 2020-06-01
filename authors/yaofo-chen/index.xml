@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Peilin Zhao | Yong Guo</title>
-    <link>/authors/peilin-zhao/</link>
-      <atom:link href="/authors/peilin-zhao/index.xml" rel="self" type="application/rss+xml" />
-    <description>Peilin Zhao</description>
+    <title>Yaofo Chen | Yong Guo</title>
+    <link>/authors/yaofo-chen/</link>
+      <atom:link href="/authors/yaofo-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yaofo Chen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Peilin Zhao</title>
-      <link>/authors/peilin-zhao/</link>
+      <title>Yaofo Chen</title>
+      <link>/authors/yaofo-chen/</link>
     </image>
     
     <item>
@@ -17,15 +17,6 @@
       <link>/publication/cnas/</link>
       <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
       <guid>/publication/cnas/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
-      <link>/publication/nat/</link>
-      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
-      <guid>/publication/nat/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
     </item>
