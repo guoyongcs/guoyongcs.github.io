@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Accepted by JCST, 2016">
+  <meta name="description" content="Accepted by IEEE SPL, 2020">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/patg/">
+  <link rel="alternate" hreflang="en-us" href="/talk/hnas/">
 
   
 
@@ -100,7 +100,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/publication/patg/">
+  <link rel="canonical" href="/talk/hnas/">
 
   
   
@@ -112,28 +112,23 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yong Guo">
-  <meta property="og:url" content="/publication/patg/">
-  <meta property="og:title" content="Online Feature Selection of Class Imbalance via PA Algorithm | Yong Guo">
-  <meta property="og:description" content="Accepted by JCST, 2016"><meta property="og:image" content="/publication/patg/featured.jpg">
-  <meta property="twitter:image" content="/publication/patg/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/talk/hnas/">
+  <meta property="og:title" content="Hierarchical Neural Architecture Search for Single Image Super-Resolution | Yong Guo">
+  <meta property="og:description" content="Accepted by IEEE SPL, 2020"><meta property="og:image" content="/talk/hnas/featured.jpg">
+  <meta property="twitter:image" content="/talk/hnas/featured.jpg"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2016-07-01T00:18:12-08:00">
+      <meta property="article:published_time" content="2020-06-06T00:18:12-08:00">
     
-    <meta property="article:modified_time" content="2016-07-01T00:18:12-08:00">
+    <meta property="article:modified_time" content="2017-09-06T00:18:12-08:00">
   
 
   
 
 
+
+  
     
-
-
-
-
-
-
-
 
 
 
@@ -141,41 +136,32 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/patg/"
+    "@id": "/talk/hnas/"
   },
-  "headline": "Online Feature Selection of Class Imbalance via PA Algorithm",
+  "name": "Hierarchical Neural Architecture Search for Single Image Super-Resolution",
+  
   
   "image": [
-    "/publication/patg/featured.jpg"
+    "/talk/hnas/featured.jpg"
   ],
   
-  "datePublished": "2016-07-01T00:18:12-08:00",
-  "dateModified": "2016-07-01T00:18:12-08:00",
+  "startDate": "2017-09-06T00:18:12-08:00",
   
-  "author": {
+  
+  "performer": {
     "@type": "Person",
-    "name": "Chao Han"
+    "name": "**Yong Guo**"
   },
   
-  "publisher": {
-    "@type": "Organization",
-    "name": "Yong Guo",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "/img/icon-512.png"
-    }
-  },
-  "description": "Accepted by JCST, 2016"
+  "description": "Accepted by IEEE SPL, 2020"
 }
 </script>
 
   
 
-  
-
 
   
 
@@ -187,7 +173,7 @@
 
 
 
-  <title>Online Feature Selection of Class Imbalance via PA Algorithm | Yong Guo</title>
+  <title>Hierarchical Neural Architecture Search for Single Image Super-Resolution | Yong Guo</title>
 
 </head>
 
@@ -434,7 +420,7 @@
   
   
 <div class="article-container pt-3">
-  <h2> <strong> Online Feature Selection of Class Imbalance via PA Algorithm </strong></h2>
+  <h2> <strong> Hierarchical Neural Architecture Search for Single Image Super-Resolution </strong></h2>
 
   
   
@@ -453,12 +439,10 @@
 
 
   
-  <span><a href="/authors/chao-han/">Chao Han</a></span>, <span><a href="/authors/yun-kun-tan/">Yun-Kun Tan</a></span>, <span><a href="/authors/jin-hui-zhu/">Jin-Hui Zhu</a></span>, <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong></a></span>, <span><a href="/authors/jian-chen/">Jian Chen</a></span>, <span><a href="/authors/qing-yao-wu/">Qing-Yao Wu</a></span>
+  <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong></a></span>, <span><a href="/authors/yongsheng-luo/">Yongsheng Luo</a></span>, <span><a href="/authors/zhenhao-he/">Zhenhao He</a></span>, <span><a href="/authors/jin-huang/">Jin Huang</a></span>, <span><a href="/authors/jian-chen/">Jian Chen</a></span>
 
   </div>
   
-  
-
   
 
   
@@ -507,12 +491,20 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://link.springer.com/article/10.1007/s11390-016-1656-0" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2003.04619.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/guoyongcs/HNAS-SR" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
@@ -537,30 +529,35 @@
 
   <div class="article-container">
 
-
-
-
     
+      <h3>Abstract</h3>
+      <p class="pub-abstract">Deep neural networks have exhibited promising performance in image super-resolution (SR). Most SR models follow a hierarchical architecture that contains both the cell-level design of computational blocks and the network-level design of the positions of upsampling blocks. However, designing SR models heavily relies on human expertise and is very labor-intensive. More critically, these SR models often contain a huge number of parameters and may not meet the requirements of computation resources in real-world applications. To address the above issues, we propose a Hierarchical Neural Architecture Search (HNAS) method to automatically design promising architectures with different requirements of computation cost. To this end, we design a hierarchical SR search space and propose a hierarchical controller for architecture search. Such a hierarchical controller is able to simultaneously find promising cell-level blocks and network-level positions of upsampling layers. Moreover, to design compact architectures with promising performance, we build a joint reward by considering both the performance and computation cost to guide the search process. Extensive experiments on five benchmark datasets demonstrate the superiority of our method over existing methods.</p>
+    
+
     <div class="row">
-          
-          <div class="col-12 col-md-9">Published in <strong>JCST</strong></div>
-     </div>
-
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Date</div>
+          <div class="col-12 col-md-9">
+            Sep 6, 2017 12:18 AM
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
     <div class="d-md-none space-below"></div>
-    
 
     
-    <h3>Abstract</h3>
-    <p class="pub-abstract">
-      <DIV align="justify">
-      Imbalance classification techniques have been frequently applied in many machine learning application domains where the number of the majority (or positive) class of a dataset is much larger than that of the minority (or negative) class. Meanwhile, feature selection (FS) is one of the key techniques for the high-dimensional classification task in a manner which greatly improves the classification performance and the computational efficiency. However, most studies of feature selection and imbalance classification are restricted to off-line batch learning, which is not well adapted to some practical scenarios. In this paper, we aim to solve high-dimensional imbalanced classification problem accurately and efficiently with only a small number of active features in an online fashion, and we propose two novel online learning algorithms for this purpose. In our approach, a classifier which involves only a small and fixed number of features is constructed to classify a sequence of imbalanced data received in an online manner. We formulate the construction of such online learner into an optimization problem and use an iterative approach to solve the problem based on the passive-aggressive (PA) algorithm as well as a truncated gradient (TG) method. We evaluate the performance of the proposed algorithms based on several real-world datasets, and our experimental results have demonstrated the effectiveness of the proposed algorithms in comparison with the baselines.
-      </DIV>
-    </p>
+
     
 
     <div class="space-below"></div>
 
-    <div class="article-style"></div>
+    <div class="article-style">
+      <h1 id="example-imagepagejpg"><img src="page.jpg" alt="Example image"></h1>
+
+    </div>
 
     
 
@@ -601,7 +598,7 @@
   <div class="media author-card content-widget-hr">
     
     <div class="media-body">
-      <h5 class="card-title"><a href="/authors/chao-han/"></a></h5>
+      <h5 class="card-title"><a href="/authors/yong-guo/"></a></h5>
       
       
       <ul class="network-icon" aria-hidden="true">
