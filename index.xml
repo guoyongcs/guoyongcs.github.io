@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Guo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Yong Guo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Improving Generative Adversarial Networks with Local Coordinate Coding</title>
+      <link>/talk/lccgan_jrnl/</link>
+      <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
+      <guid>/talk/lccgan_jrnl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>

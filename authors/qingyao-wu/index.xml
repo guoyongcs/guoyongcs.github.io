@@ -5,12 +5,20 @@
     <link>/authors/qingyao-wu/</link>
       <atom:link href="/authors/qingyao-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Qingyao Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2019 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Qingyao Wu</title>
       <link>/authors/qingyao-wu/</link>
     </image>
+    
+    <item>
+      <title>Improving Generative Adversarial Networks with Local Coordinate Coding</title>
+      <link>/talk/lccgan_jrnl/</link>
+      <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
+      <guid>/talk/lccgan_jrnl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis</title>

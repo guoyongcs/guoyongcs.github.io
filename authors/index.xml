@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,40 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
+      <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chunhua Shen</title>
+      <link>/authors/chunhua-shen/</link>
+      <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/chunhua-shen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiezhang Cao</title>
+      <link>/authors/jiezhang-cao/</link>
+      <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/jiezhang-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingyao Wu</title>
+      <link>/authors/qingyao-wu/</link>
+      <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/qingyao-wu/</guid>
       <description></description>
     </item>
     
@@ -33,14 +65,6 @@
       <link>/authors/junzhou-huang/</link>
       <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
       <guid>/authors/junzhou-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mingkui Tan</title>
-      <link>/authors/mingkui-tan/</link>
-      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
-      <guid>/authors/mingkui-tan/</guid>
       <description></description>
     </item>
     
@@ -65,14 +89,6 @@
       <link>/authors/yin-zheng/</link>
       <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
       <guid>/authors/yin-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiezhang Cao</title>
-      <link>/authors/jiezhang-cao/</link>
-      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
-      <guid>/authors/jiezhang-cao/</guid>
       <description></description>
     </item>
     
@@ -113,14 +129,6 @@
       <link>/authors/qinfeng-shi/</link>
       <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
       <guid>/authors/qinfeng-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qingyao Wu</title>
-      <link>/authors/qingyao-wu/</link>
-      <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
-      <guid>/authors/qingyao-wu/</guid>
       <description></description>
     </item>
     
@@ -169,14 +177,6 @@
       <link>/authors/zhuangwei-zhuang/</link>
       <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
       <guid>/authors/zhuangwei-zhuang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chunhua Shen</title>
-      <link>/authors/chunhua-shen/</link>
-      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
-      <guid>/authors/chunhua-shen/</guid>
       <description></description>
     </item>
     
