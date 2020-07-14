@@ -5,12 +5,20 @@
     <link>/authors/junzhou-huang/</link>
       <atom:link href="/authors/junzhou-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Junzhou Huang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Junzhou Huang</title>
       <link>/authors/junzhou-huang/</link>
     </image>
+    
+    <item>
+      <title>Improving Generative Adversarial Networks with Local Coordinate Coding</title>
+      <link>/talk/lccgan_jrnl/</link>
+      <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
+      <guid>/talk/lccgan_jrnl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
@@ -35,6 +43,14 @@
       <link>/publication/dcp/</link>
       <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
       <guid>/publication/dcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversarial Learning with Local Coordinate Coding</title>
+      <link>/publication/lccgan/</link>
+      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/lccgan/</guid>
       <description></description>
     </item>
     
