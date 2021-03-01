@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Feb 2021 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,96 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bohan Zhuang</title>
+      <link>/authors/bohan-zhuang/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/bohan-zhuang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Liu</title>
+      <link>/authors/jing-liu/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/jing-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinhui Zhu</title>
+      <link>/authors/jinhui-zhu/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/jinhui-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junzhou Huang</title>
+      <link>/authors/junzhou-huang/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/junzhou-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minli Li</title>
+      <link>/authors/minli-li/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/minli-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Chen</title>
+      <link>/authors/qi-chen/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/qi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Zeng</title>
+      <link>/authors/wei-zeng/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/wei-zeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaofo Chen</title>
+      <link>/authors/yaofo-chen/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/yaofo-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaowei Wang</title>
+      <link>/authors/yaowei-wang/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/yaowei-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhuangwei Zhuang</title>
+      <link>/authors/zhuangwei-zhuang/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/zhuangwei-zhuang/</guid>
       <description></description>
     </item>
     
@@ -29,34 +117,10 @@
     </item>
     
     <item>
-      <title>Junzhou Huang</title>
-      <link>/authors/junzhou-huang/</link>
-      <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/junzhou-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mingkui Tan</title>
-      <link>/authors/mingkui-tan/</link>
-      <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/mingkui-tan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Peilin Zhao</title>
       <link>/authors/peilin-zhao/</link>
       <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
       <guid>/authors/peilin-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qi Chen</title>
-      <link>/authors/qi-chen/</link>
-      <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/qi-chen/</guid>
       <description></description>
     </item>
     
@@ -97,14 +161,6 @@
       <link>/authors/qingyao-wu/</link>
       <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
       <guid>/authors/qingyao-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yaofo Chen</title>
-      <link>/authors/yaofo-chen/</link>
-      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
-      <guid>/authors/yaofo-chen/</guid>
       <description></description>
     </item>
     
@@ -153,38 +209,6 @@
       <link>/authors/qing-du/</link>
       <pubDate>Sat, 02 Mar 2019 00:18:12 -0800</pubDate>
       <guid>/authors/qing-du/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bohan Zhuang</title>
-      <link>/authors/bohan-zhuang/</link>
-      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
-      <guid>/authors/bohan-zhuang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jing Liu</title>
-      <link>/authors/jing-liu/</link>
-      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
-      <guid>/authors/jing-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jinhui Zhu</title>
-      <link>/authors/jinhui-zhu/</link>
-      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
-      <guid>/authors/jinhui-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhuangwei Zhuang</title>
-      <link>/authors/zhuangwei-zhuang/</link>
-      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
-      <guid>/authors/zhuangwei-zhuang/</guid>
       <description></description>
     </item>
     

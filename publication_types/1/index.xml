@@ -5,12 +5,29 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>
+      <link>/publication/ctnas/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/publication/ctnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrimination-aware Network Pruning for Deep Model Compression</title>
+      <link>/talk/dkp/</link>
+      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <guid>/talk/dkp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving Generative Adversarial Networks with Local Coordinate Coding</title>

@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Homepage of Yong Guo">
+  <meta name="description" content="Accepted by CVPR, 2021 $~~~~$(**co-first author**)">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/zhuangwei-zhuang/">
+  <link rel="alternate" hreflang="en-us" href="/publication/ctnas/">
 
   
 
@@ -95,42 +95,91 @@
 
 
   
-  <link rel="alternate" href="/authors/zhuangwei-zhuang/index.xml" type="application/rss+xml" title="Yong Guo">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/zhuangwei-zhuang/">
+  <link rel="canonical" href="/publication/ctnas/">
 
   
   
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yong Guo">
-  <meta property="og:url" content="/authors/zhuangwei-zhuang/">
-  <meta property="og:title" content="Zhuangwei Zhuang | Yong Guo">
-  <meta property="og:description" content="Homepage of Yong Guo"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/ctnas/">
+  <meta property="og:title" content="Contrastive Neural Architecture Search with Neural Architecture Comparators | Yong Guo">
+  <meta property="og:description" content="Accepted by CVPR, 2021 $~~~~$(**co-first author**)"><meta property="og:image" content="/publication/ctnas/featured.jpg">
+  <meta property="twitter:image" content="/publication/ctnas/featured.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-02-28T00:18:12-08:00">
+    
+      <meta property="article:published_time" content="2021-02-28T00:18:12-08:00">
+    
+    <meta property="article:modified_time" content="2021-02-28T00:18:12-08:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/ctnas/"
+  },
+  "headline": "Contrastive Neural Architecture Search with Neural Architecture Comparators",
+  
+  "image": [
+    "/publication/ctnas/featured.jpg"
+  ],
+  
+  "datePublished": "2021-02-28T00:18:12-08:00",
+  "dateModified": "2021-02-28T00:18:12-08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Yaofo Chen"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yong Guo",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/icon-512.png"
+    }
+  },
+  "description": "Accepted by CVPR, 2021 $~~~~$(**co-first author**)"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
@@ -138,7 +187,7 @@
 
 
 
-  <title>Zhuangwei Zhuang | Yong Guo</title>
+  <title>Contrastive Neural Architecture Search with Neural Architecture Comparators | Yong Guo</title>
 
 </head>
 
@@ -364,38 +413,181 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>Zhuangwei Zhuang</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h2> <strong> Contrastive Neural Architecture Search with Neural Architecture Comparators </strong></h2>
+
+  
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/yaofo-chen/">Yaofo Chen</a></span>, <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong></a></span>, <span><a href="/authors/qi-chen/">Qi Chen</a></span>, <span><a href="/authors/minli-li/">Minli Li</a></span>, <span><a href="/authors/yaowei-wang/">Yaowei Wang</a></span>, <span><a href="/authors/wei-zeng/">Wei Zeng</a></span>, <span><a href="/authors/mingkui-tan/">Mingkui Tan</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+
+  <div class="article-container">
+
+
+
+
     
+    <div class="row">
+          
+          <div class="col-12 col-md-9">Published in <strong>CVPR 2021</strong> <strong>(co-first author)</strong></div>
+     </div>
+
+    <div class="d-md-none space-below"></div>
     
 
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">
+      <DIV align="justify">
+      One of the key steps in Neural Architecture Search (NAS) is to estimate the performance of candidate architectures. Existing methods either directly use the validation performance or learn a predictor to estimate the performance. However, these methods can be either computationally expensive or very inaccurate, which may severely affect the search efficiency and performance. Moreover, as it is very difficult to annotate architectures with accurate performance on specific tasks, learning a promising performance predictor is often non-trivial due to the lack of labeled data. In this paper, we argue that it may not be necessary to estimate the absolute performance for NAS. On the contrary, we may need only to understand whether an architecture is better than a baseline one. However, how to exploit this comparison information as the reward and how to well use the limited labeled data remains two great challenges. In this paper, we propose a novel Contrastive Neural Architecture Search (CTNAS) method which performs architecture search by taking the comparison results between architectures as the reward. Specifically, we design and learn a Neural Architecture Comparator (NAC) to compute the probability of candidate architectures being better than a baseline one. Moreover, we present a baseline updating scheme to improve the baseline iteratively in a curriculum learning manner. More critically, we theoretically show that learning NAC is equivalent to optimizing the ranking over architectures. Extensive experiments in three search spaces demonstrate the superiority of our CTNAS over existing methods.
+      </DIV>
+    </p>
     
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><h1 id="example-imagepagejpg"><img src="page.jpg" alt="Example image"></h1>
+</div>
+
     
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/talk/dkp/">Discrimination-aware Network Pruning for Deep Model Compression</a>
-        </li>
-        
-        <li>
-          <a href="/publication/dcp/">Discrimination-aware Channel Pruning for Deep Neural Networks</a>
-        </li>
-        
-      </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/yaofo-chen/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
     </div>
-    
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</div>
 
       
 
