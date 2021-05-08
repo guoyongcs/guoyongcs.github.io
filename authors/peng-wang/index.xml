@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peng Wang | Yong Guo</title>
+    <link>/authors/peng-wang/</link>
+      <atom:link href="/authors/peng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peng Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Peng Wang</title>
+      <link>/authors/peng-wang/</link>
+    </image>
+    
+    <item>
+      <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
+      <link>/publication/adaxpert/</link>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <guid>/publication/adaxpert/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

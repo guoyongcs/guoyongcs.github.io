@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,64 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guanghui Xu</title>
+      <link>/authors/guanghui-xu/</link>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/guanghui-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiaxiang Wu</title>
+      <link>/authors/jiaxiang-wu/</link>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/jiaxiang-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peilin Zhao</title>
+      <link>/authors/peilin-zhao/</link>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/peilin-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Wang</title>
+      <link>/authors/peng-wang/</link>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/peng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuaicheng Niu</title>
+      <link>/authors/shuaicheng-niu/</link>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/shuaicheng-niu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yifan Zhang</title>
+      <link>/authors/yifan-zhang/</link>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/yifan-zhang/</guid>
       <description></description>
     </item>
     
@@ -49,14 +105,6 @@
       <link>/authors/junzhou-huang/</link>
       <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
       <guid>/authors/junzhou-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mingkui Tan</title>
-      <link>/authors/mingkui-tan/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/mingkui-tan/</guid>
       <description></description>
     </item>
     
@@ -113,14 +161,6 @@
       <link>/authors/jian-chen/</link>
       <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
       <guid>/authors/jian-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peilin Zhao</title>
-      <link>/authors/peilin-zhao/</link>
-      <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/peilin-zhao/</guid>
       <description></description>
     </item>
     

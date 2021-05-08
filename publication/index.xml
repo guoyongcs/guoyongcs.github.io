@@ -13,6 +13,15 @@
     </image>
     
     <item>
+      <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
+      <link>/publication/adaxpert/</link>
+      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <guid>/publication/adaxpert/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>
       <link>/publication/ctnas/</link>
       <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
