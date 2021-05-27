@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,64 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
+      <pubDate>Wed, 26 May 2021 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Chen</title>
+      <link>/authors/jian-chen/</link>
+      <pubDate>Wed, 26 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/jian-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junzhou Huang</title>
+      <link>/authors/junzhou-huang/</link>
+      <pubDate>Wed, 26 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/junzhou-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Wed, 26 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peilin Zhao</title>
+      <link>/authors/peilin-zhao/</link>
+      <pubDate>Wed, 26 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/peilin-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Chen</title>
+      <link>/authors/qi-chen/</link>
+      <pubDate>Wed, 26 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/qi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yin Zheng</title>
+      <link>/authors/yin-zheng/</link>
+      <pubDate>Wed, 26 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/yin-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhipeng Li</title>
+      <link>/authors/zhipeng-li/</link>
+      <pubDate>Wed, 26 May 2021 00:18:12 -0800</pubDate>
+      <guid>/authors/zhipeng-li/</guid>
       <description></description>
     </item>
     
@@ -33,22 +89,6 @@
       <link>/authors/jiaxiang-wu/</link>
       <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
       <guid>/authors/jiaxiang-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mingkui Tan</title>
-      <link>/authors/mingkui-tan/</link>
-      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/mingkui-tan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peilin Zhao</title>
-      <link>/authors/peilin-zhao/</link>
-      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/peilin-zhao/</guid>
       <description></description>
     </item>
     
@@ -101,26 +141,10 @@
     </item>
     
     <item>
-      <title>Junzhou Huang</title>
-      <link>/authors/junzhou-huang/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/junzhou-huang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Minli Li</title>
       <link>/authors/minli-li/</link>
       <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
       <guid>/authors/minli-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qi Chen</title>
-      <link>/authors/qi-chen/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/qi-chen/</guid>
       <description></description>
     </item>
     
@@ -153,30 +177,6 @@
       <link>/authors/zhuangwei-zhuang/</link>
       <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
       <guid>/authors/zhuangwei-zhuang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jian Chen</title>
-      <link>/authors/jian-chen/</link>
-      <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/jian-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yin Zheng</title>
-      <link>/authors/yin-zheng/</link>
-      <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/yin-zheng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhipeng Li</title>
-      <link>/authors/zhipeng-li/</link>
-      <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/zhipeng-li/</guid>
       <description></description>
     </item>
     
@@ -378,7 +378,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/yong/</guid>
       <description>&lt;p&gt;I am a Ph.D. candidate with the School of Software Engineering at South China University of Technology. I also received my bachelor degree in Software Engineering from the same university in 2016. My research interests include machine learning and computer vision.
-I served as the &lt;strong&gt;reviewer&lt;/strong&gt; for several top-tier conferences and journals, such as &lt;strong&gt;NeurIPS&lt;/strong&gt;, &lt;strong&gt;CVPR&lt;/strong&gt;, &lt;strong&gt;ICML&lt;/strong&gt;, &lt;strong&gt;TPAMI&lt;/strong&gt;, &lt;strong&gt;TIP&lt;/strong&gt;, &lt;strong&gt;TNNLS&lt;/strong&gt;.&lt;/p&gt;
+I served as the reviewer for several top-tier conferences and journals, such as &lt;strong&gt;NeurIPS&lt;/strong&gt;, &lt;strong&gt;CVPR&lt;/strong&gt;, &lt;strong&gt;ICML&lt;/strong&gt;, &lt;strong&gt;TPAMI&lt;/strong&gt;, &lt;strong&gt;TIP&lt;/strong&gt;, &lt;strong&gt;TNNLS&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     

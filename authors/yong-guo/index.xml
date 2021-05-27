@@ -5,12 +5,21 @@
     <link>/authors/yong-guo/</link>
       <atom:link href="/authors/yong-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>**Yong Guo**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 07 May 2021 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
     </image>
+    
+    <item>
+      <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>
+      <link>/talk/nat&#43;&#43;/</link>
+      <pubDate>Wed, 26 May 2021 00:18:12 -0800</pubDate>
+      <guid>/talk/nat&#43;&#43;/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
@@ -36,15 +45,6 @@
       <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
       <guid>/talk/dkp/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>
-      <link>/talk/nat&#43;&#43;/</link>
-      <pubDate>Mon, 22 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/talk/nat&#43;&#43;/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
     </item>
     
     <item>
