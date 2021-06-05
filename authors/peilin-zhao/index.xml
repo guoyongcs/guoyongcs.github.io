@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
+      <link>/publication/adaxpert/</link>
+      <pubDate>Fri, 05 Mar 2021 00:18:12 -0800</pubDate>
+      <guid>/publication/adaxpert/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
       <link>/publication/cnas/</link>
       <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
@@ -35,15 +44,6 @@
       <link>/publication/nat/</link>
       <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
       <guid>/publication/nat/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
-      <link>/publication/adaxpert/</link>
-      <pubDate>Mon, 05 Feb 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/adaxpert/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
     </item>
