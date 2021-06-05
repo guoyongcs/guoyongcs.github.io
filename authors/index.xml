@@ -77,110 +77,6 @@
     </item>
     
     <item>
-      <title>Guanghui Xu</title>
-      <link>/authors/guanghui-xu/</link>
-      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/guanghui-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiaxiang Wu</title>
-      <link>/authors/jiaxiang-wu/</link>
-      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/jiaxiang-wu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peng Wang</title>
-      <link>/authors/peng-wang/</link>
-      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/peng-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shuaicheng Niu</title>
-      <link>/authors/shuaicheng-niu/</link>
-      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/shuaicheng-niu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yifan Zhang</title>
-      <link>/authors/yifan-zhang/</link>
-      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/yifan-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bohan Zhuang</title>
-      <link>/authors/bohan-zhuang/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/bohan-zhuang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jing Liu</title>
-      <link>/authors/jing-liu/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/jing-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jinhui Zhu</title>
-      <link>/authors/jinhui-zhu/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/jinhui-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minli Li</title>
-      <link>/authors/minli-li/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/minli-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wei Zeng</title>
-      <link>/authors/wei-zeng/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/wei-zeng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yaofo Chen</title>
-      <link>/authors/yaofo-chen/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/yaofo-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yaowei Wang</title>
-      <link>/authors/yaowei-wang/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/yaowei-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhuangwei Zhuang</title>
-      <link>/authors/zhuangwei-zhuang/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/authors/zhuangwei-zhuang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Chunhua Shen</title>
       <link>/authors/chunhua-shen/</link>
       <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
@@ -189,7 +85,7 @@
     </item>
     
     <item>
-      <title>Jiezhang Cao</title>
+      <title>Jiezhang Cao$^*$</title>
       <link>/authors/jiezhang-cao/</link>
       <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
       <guid>/authors/jiezhang-cao/</guid>
@@ -201,6 +97,14 @@
       <link>/authors/qingyao-wu/</link>
       <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
       <guid>/authors/qingyao-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaofo Chen</title>
+      <link>/authors/yaofo-chen/</link>
+      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
+      <guid>/authors/yaofo-chen/</guid>
       <description></description>
     </item>
     
@@ -255,8 +159,96 @@
     <item>
       <title>Chaorui Deng</title>
       <link>/authors/chaorui-deng/</link>
-      <pubDate>Tue, 06 Feb 2018 00:18:12 -0800</pubDate>
+      <pubDate>Thu, 08 Feb 2018 00:18:12 -0800</pubDate>
       <guid>/authors/chaorui-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minli Li</title>
+      <link>/authors/minli-li/</link>
+      <pubDate>Wed, 07 Feb 2018 00:19:12 -0800</pubDate>
+      <guid>/authors/minli-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Zeng</title>
+      <link>/authors/wei-zeng/</link>
+      <pubDate>Wed, 07 Feb 2018 00:19:12 -0800</pubDate>
+      <guid>/authors/wei-zeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaowei Wang</title>
+      <link>/authors/yaowei-wang/</link>
+      <pubDate>Wed, 07 Feb 2018 00:19:12 -0800</pubDate>
+      <guid>/authors/yaowei-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junyi Cao$^*$</title>
+      <link>/authors/junyi-cao/</link>
+      <pubDate>Mon, 05 Feb 2018 00:19:12 -0800</pubDate>
+      <guid>/authors/junyi-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lizhao Liu$^*$</title>
+      <link>/authors/lizhao-liu/</link>
+      <pubDate>Mon, 05 Feb 2018 00:19:12 -0800</pubDate>
+      <guid>/authors/lizhao-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minqian Liu$^*$</title>
+      <link>/authors/minqian-liu/</link>
+      <pubDate>Mon, 05 Feb 2018 00:19:12 -0800</pubDate>
+      <guid>/authors/minqian-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guanghui Xu</title>
+      <link>/authors/guanghui-xu/</link>
+      <pubDate>Mon, 05 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/guanghui-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiaxiang Wu</title>
+      <link>/authors/jiaxiang-wu/</link>
+      <pubDate>Mon, 05 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/jiaxiang-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peng Wang</title>
+      <link>/authors/peng-wang/</link>
+      <pubDate>Mon, 05 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/peng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shuaicheng Niu</title>
+      <link>/authors/shuaicheng-niu/</link>
+      <pubDate>Mon, 05 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/shuaicheng-niu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yifan Zhang</title>
+      <link>/authors/yifan-zhang/</link>
+      <pubDate>Mon, 05 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/authors/yifan-zhang/</guid>
       <description></description>
     </item>
     
@@ -281,6 +273,62 @@
       <link>/authors/zhenhao-he/</link>
       <pubDate>Wed, 06 Sep 2017 00:18:12 -0800</pubDate>
       <guid>/authors/zhenhao-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiaxin Guo</title>
+      <link>/authors/jiaxin-guo/</link>
+      <pubDate>Tue, 05 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/authors/jiaxin-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luoqian Jiang</title>
+      <link>/authors/luoqian-jiang/</link>
+      <pubDate>Tue, 05 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/authors/luoqian-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yixin Liu$^*$</title>
+      <link>/authors/yixin-liu/</link>
+      <pubDate>Tue, 05 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/authors/yixin-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bohan Zhuang</title>
+      <link>/authors/bohan-zhuang/</link>
+      <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/authors/bohan-zhuang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Liu</title>
+      <link>/authors/jing-liu/</link>
+      <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/authors/jing-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinhui Zhu</title>
+      <link>/authors/jinhui-zhu/</link>
+      <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/authors/jinhui-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhuangwei Zhuang</title>
+      <link>/authors/zhuangwei-zhuang/</link>
+      <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/authors/zhuangwei-zhuang/</guid>
       <description></description>
     </item>
     
@@ -345,30 +393,6 @@
       <link>/authors/yun-kun-tan/</link>
       <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
       <guid>/authors/yun-kun-tan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Junyi Cao</title>
-      <link>/authors/junyi-cao/</link>
-      <pubDate>Wed, 01 Jun 2016 00:18:12 -0800</pubDate>
-      <guid>/authors/junyi-cao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lizhao Liu</title>
-      <link>/authors/lizhao-liu/</link>
-      <pubDate>Wed, 01 Jun 2016 00:18:12 -0800</pubDate>
-      <guid>/authors/lizhao-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Minqian Liu</title>
-      <link>/authors/minqian-liu/</link>
-      <pubDate>Wed, 01 Jun 2016 00:18:12 -0800</pubDate>
-      <guid>/authors/minqian-liu/</guid>
       <description></description>
     </item>
     

@@ -22,32 +22,6 @@
     </item>
     
     <item>
-      <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
-      <link>/publication/adaxpert/</link>
-      <pubDate>Fri, 07 May 2021 00:18:12 -0800</pubDate>
-      <guid>/publication/adaxpert/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>
-      <link>/publication/ctnas/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/publication/ctnas/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Discrimination-aware Network Pruning for Deep Model Compression</title>
-      <link>/talk/dkp/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/talk/dkp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improving Generative Adversarial Networks with Local Coordinate Coding</title>
       <link>/talk/lccgan_jrnl/</link>
       <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
@@ -98,26 +72,52 @@
     </item>
     
     <item>
-      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
-      <link>/publication/dcp/</link>
-      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/dcp/</guid>
+      <title>Double Forward Propagation for Memorized Batch Normalization</title>
+      <link>/publication/mbn/</link>
+      <pubDate>Thu, 08 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/mbn/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>
+      <link>/publication/ctnas/</link>
+      <pubDate>Wed, 07 Feb 2018 00:19:12 -0800</pubDate>
+      <guid>/publication/ctnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
     </item>
     
     <item>
       <title>Adversarial Learning with Local Coordinate Coding</title>
       <link>/publication/lccgan/</link>
-      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
+      <pubDate>Wed, 07 Feb 2018 00:18:12 -0800</pubDate>
       <guid>/publication/lccgan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Double Forward Propagation for Memorized Batch Normalization</title>
-      <link>/publication/mbn/</link>
-      <pubDate>Tue, 06 Feb 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/mbn/</guid>
+      <title>Dynamic Extension Nets for Few-shot Semantic Segmentation</title>
+      <link>/publication/denet/</link>
+      <pubDate>Mon, 05 Feb 2018 00:19:12 -0800</pubDate>
+      <guid>/publication/denet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
+      <link>/publication/adaxpert/</link>
+      <pubDate>Mon, 05 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/adaxpert/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Discrimination-aware Network Pruning for Deep Model Compression</title>
+      <link>/talk/dkp/</link>
+      <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/talk/dkp/</guid>
       <description></description>
     </item>
     
@@ -131,10 +131,10 @@
     </item>
     
     <item>
-      <title>Dynamic Extension Nets for Few-shot Semantic Segmentation</title>
-      <link>/publication/denet/</link>
-      <pubDate>Wed, 01 Jun 2016 00:18:12 -0800</pubDate>
-      <guid>/publication/denet/</guid>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Thu, 02 Jun 2016 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
       <description></description>
     </item>
     

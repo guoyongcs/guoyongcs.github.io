@@ -5,7 +5,7 @@
     <link>/authors/chaorui-deng/</link>
       <atom:link href="/authors/chaorui-deng/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaorui Deng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Feb 2018 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Feb 2018 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Chaorui Deng</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Double Forward Propagation for Memorized Batch Normalization</title>
       <link>/publication/mbn/</link>
-      <pubDate>Tue, 06 Feb 2018 00:18:12 -0800</pubDate>
+      <pubDate>Thu, 08 Feb 2018 00:18:12 -0800</pubDate>
       <guid>/publication/mbn/</guid>
       <description></description>
     </item>

@@ -5,7 +5,7 @@
     <link>/authors/bohan-zhuang/</link>
       <atom:link href="/authors/bohan-zhuang/index.xml" rel="self" type="application/rss+xml" />
     <description>Bohan Zhuang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Feb 2021 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Sep 2017 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Bohan Zhuang</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Discrimination-aware Network Pruning for Deep Model Compression</title>
       <link>/talk/dkp/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
       <guid>/talk/dkp/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
       <link>/publication/dcp/</link>
-      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
+      <pubDate>Thu, 02 Jun 2016 00:18:12 -0800</pubDate>
       <guid>/publication/dcp/</guid>
       <description></description>
     </item>

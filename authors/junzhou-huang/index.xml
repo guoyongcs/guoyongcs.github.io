@@ -22,14 +22,6 @@
     </item>
     
     <item>
-      <title>Discrimination-aware Network Pruning for Deep Model Compression</title>
-      <link>/talk/dkp/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/talk/dkp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Improving Generative Adversarial Networks with Local Coordinate Coding</title>
       <link>/talk/lccgan_jrnl/</link>
       <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
@@ -56,18 +48,26 @@
     </item>
     
     <item>
-      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
-      <link>/publication/dcp/</link>
-      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/dcp/</guid>
+      <title>Adversarial Learning with Local Coordinate Coding</title>
+      <link>/publication/lccgan/</link>
+      <pubDate>Wed, 07 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/lccgan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adversarial Learning with Local Coordinate Coding</title>
-      <link>/publication/lccgan/</link>
-      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/lccgan/</guid>
+      <title>Discrimination-aware Network Pruning for Deep Model Compression</title>
+      <link>/talk/dkp/</link>
+      <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/talk/dkp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Thu, 02 Jun 2016 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
       <description></description>
     </item>
     

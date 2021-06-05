@@ -69,87 +69,7 @@
   
   <url>
     <loc>/publication_types/1/</loc>
-    <lastmod>2021-05-07T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/adaxpert/</loc>
-    <lastmod>2021-05-07T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/guanghui-xu/</loc>
-    <lastmod>2021-05-07T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jiaxiang-wu/</loc>
-    <lastmod>2021-05-07T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/peng-wang/</loc>
-    <lastmod>2021-05-07T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shuaicheng-niu/</loc>
-    <lastmod>2021-05-07T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yifan-zhang/</loc>
-    <lastmod>2021-05-07T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/bohan-zhuang/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ctnas/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/dkp/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jing-liu/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jinhui-zhu/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/minli-li/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/wei-zeng/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yaofo-chen/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/yaowei-wang/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/zhuangwei-zhuang/</loc>
-    <lastmod>2021-02-28T00:18:12-08:00</lastmod>
+    <lastmod>2020-07-08T00:18:12-08:00</lastmod>
   </url>
   
   <url>
@@ -174,6 +94,11 @@
   
   <url>
     <loc>/publication/cnas/</loc>
+    <lastmod>2020-06-01T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yaofo-chen/</loc>
     <lastmod>2020-06-01T00:18:12-08:00</lastmod>
   </url>
   
@@ -228,23 +153,88 @@
   </url>
   
   <url>
-    <loc>/publication/dcp/</loc>
-    <lastmod>2018-10-28T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/lccgan/</loc>
-    <lastmod>2018-06-13T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/chaorui-deng/</loc>
-    <lastmod>2018-02-06T00:18:12-08:00</lastmod>
+    <lastmod>2018-02-08T00:18:12-08:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/mbn/</loc>
-    <lastmod>2018-02-06T00:18:12-08:00</lastmod>
+    <lastmod>2018-02-08T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/ctnas/</loc>
+    <lastmod>2018-02-07T00:19:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/minli-li/</loc>
+    <lastmod>2018-02-07T00:19:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wei-zeng/</loc>
+    <lastmod>2018-02-07T00:19:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yaowei-wang/</loc>
+    <lastmod>2018-02-07T00:19:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/lccgan/</loc>
+    <lastmod>2018-02-07T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/denet/</loc>
+    <lastmod>2018-02-05T00:19:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/junyi-cao/</loc>
+    <lastmod>2018-02-05T00:19:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lizhao-liu/</loc>
+    <lastmod>2018-02-05T00:19:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/minqian-liu/</loc>
+    <lastmod>2018-02-05T00:19:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/adaxpert/</loc>
+    <lastmod>2018-02-05T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/guanghui-xu/</loc>
+    <lastmod>2018-02-05T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jiaxiang-wu/</loc>
+    <lastmod>2018-02-05T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/peng-wang/</loc>
+    <lastmod>2018-02-05T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/shuaicheng-niu/</loc>
+    <lastmod>2018-02-05T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yifan-zhang/</loc>
+    <lastmod>2018-02-05T00:18:12-08:00</lastmod>
   </url>
   
   <url>
@@ -265,6 +255,51 @@
   <url>
     <loc>/authors/zhenhao-he/</loc>
     <lastmod>2017-09-06T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/cacp/</loc>
+    <lastmod>2017-09-05T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jiaxin-guo/</loc>
+    <lastmod>2017-09-05T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/luoqian-jiang/</loc>
+    <lastmod>2017-09-05T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yixin-liu/</loc>
+    <lastmod>2017-09-05T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bohan-zhuang/</loc>
+    <lastmod>2017-09-04T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/dkp/</loc>
+    <lastmod>2017-09-04T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jing-liu/</loc>
+    <lastmod>2017-09-04T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jinhui-zhu/</loc>
+    <lastmod>2017-09-04T00:18:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zhuangwei-zhuang/</loc>
+    <lastmod>2017-09-04T00:18:12-08:00</lastmod>
   </url>
   
   <url>
@@ -318,23 +353,8 @@
   </url>
   
   <url>
-    <loc>/publication/denet/</loc>
-    <lastmod>2016-06-01T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/junyi-cao/</loc>
-    <lastmod>2016-06-01T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/lizhao-liu/</loc>
-    <lastmod>2016-06-01T00:18:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/minqian-liu/</loc>
-    <lastmod>2016-06-01T00:18:12-08:00</lastmod>
+    <loc>/publication/dcp/</loc>
+    <lastmod>2016-06-02T00:18:12-08:00</lastmod>
   </url>
   
   <url>

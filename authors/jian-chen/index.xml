@@ -66,7 +66,7 @@
     <item>
       <title>Double Forward Propagation for Memorized Batch Normalization</title>
       <link>/publication/mbn/</link>
-      <pubDate>Tue, 06 Feb 2018 00:18:12 -0800</pubDate>
+      <pubDate>Thu, 08 Feb 2018 00:18:12 -0800</pubDate>
       <guid>/publication/mbn/</guid>
       <description></description>
     </item>
@@ -76,6 +76,15 @@
       <link>/talk/hnas/</link>
       <pubDate>Wed, 06 Sep 2017 00:18:12 -0800</pubDate>
       <guid>/talk/hnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conditional Automated Channel Pruning for Deep Neural Networks</title>
+      <link>/talk/cacp/</link>
+      <pubDate>Tue, 05 Sep 2017 00:18:12 -0800</pubDate>
+      <guid>/talk/cacp/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
     </item>

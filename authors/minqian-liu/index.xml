@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Minqian Liu | Yong Guo</title>
+    <title>Minqian Liu$^*$ | Yong Guo</title>
     <link>/authors/minqian-liu/</link>
       <atom:link href="/authors/minqian-liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Minqian Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2016 00:18:12 -0800</lastBuildDate>
+    <description>Minqian Liu$^*$</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Feb 2018 00:19:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Minqian Liu</title>
+      <title>Minqian Liu$^*$</title>
       <link>/authors/minqian-liu/</link>
     </image>
     
     <item>
       <title>Dynamic Extension Nets for Few-shot Semantic Segmentation</title>
       <link>/publication/denet/</link>
-      <pubDate>Wed, 01 Jun 2016 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 05 Feb 2018 00:19:12 -0800</pubDate>
       <guid>/publication/denet/</guid>
       <description></description>
     </item>

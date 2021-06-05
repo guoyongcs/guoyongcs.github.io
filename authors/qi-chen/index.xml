@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>
-      <link>/publication/ctnas/</link>
-      <pubDate>Sun, 28 Feb 2021 00:18:12 -0800</pubDate>
-      <guid>/publication/ctnas/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
       <link>/publication/drn/</link>
       <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
@@ -56,9 +47,18 @@
     </item>
     
     <item>
+      <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>
+      <link>/publication/ctnas/</link>
+      <pubDate>Wed, 07 Feb 2018 00:19:12 -0800</pubDate>
+      <guid>/publication/ctnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Dynamic Extension Nets for Few-shot Semantic Segmentation</title>
       <link>/publication/denet/</link>
-      <pubDate>Wed, 01 Jun 2016 00:18:12 -0800</pubDate>
+      <pubDate>Mon, 05 Feb 2018 00:19:12 -0800</pubDate>
       <guid>/publication/denet/</guid>
       <description></description>
     </item>

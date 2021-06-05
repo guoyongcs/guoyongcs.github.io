@@ -29,26 +29,26 @@
     </item>
     
     <item>
-      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
-      <link>/publication/dcp/</link>
-      <pubDate>Sun, 28 Oct 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/dcp/</guid>
+      <title>Double Forward Propagation for Memorized Batch Normalization</title>
+      <link>/publication/mbn/</link>
+      <pubDate>Thu, 08 Feb 2018 00:18:12 -0800</pubDate>
+      <guid>/publication/mbn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adversarial Learning with Local Coordinate Coding</title>
       <link>/publication/lccgan/</link>
-      <pubDate>Wed, 13 Jun 2018 00:18:12 -0800</pubDate>
+      <pubDate>Wed, 07 Feb 2018 00:18:12 -0800</pubDate>
       <guid>/publication/lccgan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Double Forward Propagation for Memorized Batch Normalization</title>
-      <link>/publication/mbn/</link>
-      <pubDate>Tue, 06 Feb 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/mbn/</guid>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Thu, 02 Jun 2016 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
       <description></description>
     </item>
     
