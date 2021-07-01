@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yaofo Chen$^*$ | Yong Guo</title>
+    <title>Yaofo Chen | Yong Guo</title>
     <link>/authors/yaofo-chen/</link>
       <atom:link href="/authors/yaofo-chen/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yaofo Chen$^*$</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Feb 2021 00:19:12 -0800</lastBuildDate>
+    <description>Yaofo Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 May 2021 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Yaofo Chen$^*$</title>
+      <title>Yaofo Chen</title>
       <link>/authors/yaofo-chen/</link>
     </image>
+    
+    <item>
+      <title>Content-Aware Convolutional Neural Networks</title>
+      <link>/talk/cac/</link>
+      <pubDate>Tue, 25 May 2021 00:18:12 -0800</pubDate>
+      <guid>/talk/cac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>

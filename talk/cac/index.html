@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Homepage of Yong Guo">
+  <meta name="description" content="Accepted by Neural Networks, 2021">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/yaofo-chen/">
+  <link rel="alternate" hreflang="en-us" href="/talk/cac/">
 
   
 
@@ -95,50 +95,85 @@
 
 
   
-  <link rel="alternate" href="/authors/yaofo-chen/index.xml" type="application/rss+xml" title="Yong Guo">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/yaofo-chen/">
+  <link rel="canonical" href="/talk/cac/">
 
   
   
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yong Guo">
-  <meta property="og:url" content="/authors/yaofo-chen/">
-  <meta property="og:title" content="Yaofo Chen | Yong Guo">
-  <meta property="og:description" content="Homepage of Yong Guo"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/talk/cac/">
+  <meta property="og:title" content="Content-Aware Convolutional Neural Networks | Yong Guo">
+  <meta property="og:description" content="Accepted by Neural Networks, 2021"><meta property="og:image" content="/talk/cac/featured.jpg">
+  <meta property="twitter:image" content="/talk/cac/featured.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-05-25T00:18:12-08:00">
+    
+      <meta property="article:published_time" content="2019-03-02T00:18:12-08:00">
+    
+    <meta property="article:modified_time" content="2021-05-25T00:18:12-08:00">
   
-
-  
-
-
-
-
-  
-
 
   
 
 
 
+  
+    
 
 
 
-  <title>Yaofo Chen | Yong Guo</title>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/talk/cac/"
+  },
+  "name": "Content-Aware Convolutional Neural Networks",
+  
+  
+  "image": [
+    "/talk/cac/featured.jpg"
+  ],
+  
+  "startDate": "2021-05-25T00:18:12-08:00",
+  
+  
+  "performer": {
+    "@type": "Person",
+    "name": "**Yong Guo**"
+  },
+  
+  "description": "Accepted by Neural Networks, 2021"
+}
+</script>
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+
+  <title>Content-Aware Convolutional Neural Networks | Yong Guo</title>
 
 </head>
 
@@ -364,42 +399,220 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>Yaofo Chen</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h2> <strong> Content-Aware Convolutional Neural Networks </strong></h2>
+
+  
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong></a></span>, <span><a href="/authors/yaofo-chen/">Yaofo Chen</a></span>, <span><a href="/authors/mingkui-tan/">Mingkui Tan</a></span>, <span><a href="/authors/kui-jia/">Kui Jia</a></span>, <span><a href="/authors/jian-chen/">Jian Chen</a></span>, <span><a href="/authors/jingdong-wang/">Jingdong Wang</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/guoyongcs/CAC" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="row">
+          <div class="col-12 col-md-9">Neural Networks</div>
+     </div>
+
     
+      <h3>Abstract</h3>
+      
+      <DIV align="justify">
+        Convolutional Neural Networks (CNNs) have achieved great success due to the powerful feature learning ability of convolution layers. Specifically, the standard convolution traverses the input images/features using a sliding window scheme to extract features. However, not all the windows contribute equally to the prediction results of CNNs. In practice, the convolutional operation on some of the windows (e.g., smooth windows that contain very similar pixels) can be very redundant and may introduce noises into the computation. Such redundancy may not only deteriorate the performance but also incur the unnecessary computational cost. Thus, it is important to reduce the computational redundancy of convolution to improve the performance. To this end, we propose a Content-aware Convolution (CAC) that automatically detects the smooth windows and applies a 1×1 convolutional kernel to replace the original large kernel. In this sense, we are able to effectively avoid the redundant computation on similar pixels. By replacing the standard convolution in CNNs with our CAC, the resultant models yield significantly better performance and lower computational cost than the baseline models with the standard convolution. More critically, we are able to dynamically allocate suitable computation resources according to the data smoothness of different images, making it possible for content-aware computation. Extensive experiments on various computer vision tasks demonstrate the superiority of our method over existing methods.
+      </DIV>
+    
+
+
+
+    <div class="d-md-none space-below"></div>
+
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/talk/cac/">Content-Aware Convolutional Neural Networks</a>
-        </li>
-        
-        <li>
-          <a href="/publication/ctnas/">Contrastive Neural Architecture Search with Neural Architecture Comparators</a>
-        </li>
-        
-        <li>
-          <a href="/publication/cnas/">Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</a>
-        </li>
-        
-      </ul>
+
+    <div class="space-below"></div>
+
+    <div class="article-style">
+      
     </div>
+
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/yong-guo/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</div>
 
       
 
