@@ -5,12 +5,20 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Disturbance-immune Weight Sharing for Neural Architecture Search</title>
+      <link>/talk/dinas/</link>
+      <pubDate>Sat, 25 Sep 2021 00:18:12 -0800</pubDate>
+      <guid>/talk/dinas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>

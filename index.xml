@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Guo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Yong Guo</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Disturbance-immune Weight Sharing for Neural Architecture Search</title>
+      <link>/talk/dinas/</link>
+      <pubDate>Sat, 25 Sep 2021 00:18:12 -0800</pubDate>
+      <guid>/talk/dinas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>
