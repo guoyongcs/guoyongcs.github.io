@@ -5,12 +5,20 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Improving Robustness by Enhancing Weak Subnets</title>
+      <link>/publication/ews/</link>
+      <pubDate>Mon, 04 Jul 2022 00:18:12 -0800</pubDate>
+      <guid>/publication/ews/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
