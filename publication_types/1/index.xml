@@ -21,10 +21,27 @@
     </item>
     
     <item>
-      <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
-      <link>/publication/adaxpert/</link>
-      <pubDate>Fri, 05 Mar 2021 00:18:12 -0800</pubDate>
-      <guid>/publication/adaxpert/</guid>
+      <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
+      <link>/publication/drn/</link>
+      <pubDate>Thu, 24 Feb 2022 00:18:12 -0800</pubDate>
+      <guid>/publication/drn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
+      <link>/publication/nat/</link>
+      <pubDate>Mon, 06 Sep 2021 00:18:12 -0800</pubDate>
+      <guid>/publication/nat/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
+      <link>/publication/cnas/</link>
+      <pubDate>Tue, 01 Jun 2021 00:18:12 -0800</pubDate>
+      <guid>/publication/cnas/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
     </item>
@@ -41,35 +58,9 @@
     <item>
       <title>Improving Generative Adversarial Networks with Local Coordinate Coding</title>
       <link>/talk/lccgan_jrnl/</link>
-      <pubDate>Wed, 08 Jul 2020 00:18:12 -0800</pubDate>
+      <pubDate>Fri, 08 Feb 2019 00:18:12 -0800</pubDate>
       <guid>/talk/lccgan_jrnl/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
-      <link>/publication/cnas/</link>
-      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
-      <guid>/publication/cnas/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
-      <link>/publication/drn/</link>
-      <pubDate>Mon, 24 Feb 2020 00:18:12 -0800</pubDate>
-      <guid>/publication/drn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
-      <link>/publication/nat/</link>
-      <pubDate>Fri, 06 Sep 2019 00:18:12 -0800</pubDate>
-      <guid>/publication/nat/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
     </item>
     
     <item>
@@ -102,6 +93,15 @@
       <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
       <guid>/talk/dkp/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
+      <link>/publication/adaxpert/</link>
+      <pubDate>Sun, 05 Mar 2017 00:18:12 -0800</pubDate>
+      <guid>/publication/adaxpert/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
     </item>
     
     <item>

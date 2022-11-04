@@ -5,12 +5,21 @@
     <link>/authors/yaofo-chen/</link>
       <atom:link href="/authors/yaofo-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yaofo Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 May 2021 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Yaofo Chen</title>
       <link>/authors/yaofo-chen/</link>
     </image>
+    
+    <item>
+      <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
+      <link>/publication/cnas/</link>
+      <pubDate>Tue, 01 Jun 2021 00:18:12 -0800</pubDate>
+      <guid>/publication/cnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>Content-Aware Convolutional Neural Networks</title>
@@ -25,15 +34,6 @@
       <link>/publication/ctnas/</link>
       <pubDate>Sun, 07 Feb 2021 00:19:12 -0800</pubDate>
       <guid>/publication/ctnas/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
-      <link>/publication/cnas/</link>
-      <pubDate>Mon, 01 Jun 2020 00:18:12 -0800</pubDate>
-      <guid>/publication/cnas/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
     </item>
