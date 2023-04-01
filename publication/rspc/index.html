@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Homepage of Yong Guo">
+  <meta name="description" content="Accepted by CVPR, 2023">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/">
+  <link rel="alternate" hreflang="en-us" href="/publication/rspc/">
 
   
 
@@ -95,42 +95,91 @@
 
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Yong Guo">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/">
+  <link rel="canonical" href="/publication/rspc/">
 
   
   
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yong Guo">
-  <meta property="og:url" content="/authors/">
-  <meta property="og:title" content="Authors | Yong Guo">
-  <meta property="og:description" content="Homepage of Yong Guo"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/rspc/">
+  <meta property="og:title" content="Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions | Yong Guo">
+  <meta property="og:description" content="Accepted by CVPR, 2023"><meta property="og:image" content="/publication/rspc/featured.jpg">
+  <meta property="twitter:image" content="/publication/rspc/featured.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-02-24T00:18:12-08:00">
+    
+      <meta property="article:published_time" content="2023-02-24T00:18:12-08:00">
+    
+    <meta property="article:modified_time" content="2023-02-24T00:18:12-08:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/rspc/"
+  },
+  "headline": "Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions",
+  
+  "image": [
+    "/publication/rspc/featured.jpg"
+  ],
+  
+  "datePublished": "2023-02-24T00:18:12-08:00",
+  "dateModified": "2023-02-24T00:18:12-08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "**Yong Guo**$^*$"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yong Guo",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/icon-512.png"
+    }
+  },
+  "description": "Accepted by CVPR, 2023"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
@@ -138,7 +187,7 @@
 
 
 
-  <title>Authors | Yong Guo</title>
+  <title>Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions | Yong Guo</title>
 
 </head>
 
@@ -364,6 +413,85 @@
 </nav>
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h2> <strong> Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions </strong></h2>
+
+  
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong></a></span>, <span><a href="/authors/david-stutz/">David Stutz</a></span>, <span><a href="/authors/bernt-schiele/">Bernt Schiele</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -373,76 +501,132 @@
 
 
 
-
-
-
-
   
 
-  
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h2> <strong> Authors </strong></h2>
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/guoyongcs/RSPC" target="_blank" rel="noopener">
+  Code
+</a>
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
   
 </div>
 
 
 
-<div class="universal-wrapper">
+  <div class="article-container">
+
+
+
+
+    
+    <div class="row">
+          
+          <div class="col-12 col-md-9">Published in <strong>CVPR 2023</strong></div>
+     </div>
+
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">
+      <DIV align="justify">
+      Despite their success, vision transformers still remain vulnerable to image corruptions, such as noise or blur. Indeed, we find that the vulnerability mainly stems from the unstable self-attention mechanism, which is inherently built upon patch-based inputs and often becomes overly sensitive to the corruptions across patches. For example, when we only occlude a small number of patches with random noise (e.g., 10%), these patch corruptions would lead to severe accuracy drops and greatly distract intermediate attention layers. To address this, we propose a new training method that improves the robustness of transformers from a new perspective – reducing sensitivity to patch corruptions (RSPC). Specifically, we first identify and occlude/corrupt the most vulnerable patches and then explicitly reduce sensitivity to them by aligning the intermediate features between clean and corrupted examples. We highlight that the construction of patch corruptions is learned adversarially to the following feature alignment process, which is particularly effective and essentially different from existing methods. In experiments, our RSPC greatly improves the stability of attention layers and consistently yields better robustness on various benchmarks, including CIFAR-10/100-C, ImageNet-A, ImageNet-C, and ImageNet-P.
+      </DIV>
+    </p>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
-  <ul>
+  
     
-    
-      
-      <li><a href="/authors/qingyao-wu/">Qingyao Wu</a></li>
-    
-      
-      <li><a href="/authors/anton-van-den-hengel/">Anton Van Den Hengel</a></li>
-    
-      
-      <li><a href="/authors/qing-du/">Qing Du</a></li>
-    
-      
-      <li><a href="/authors/chunhua-shen/">Chunhua Shen</a></li>
-    
-      
-      <li><a href="/authors/jiaxiang-wu/">Jiaxiang Wu</a></li>
-    
-      
-      <li><a href="/authors/shuaicheng-niu/">Shuaicheng Niu</a></li>
-    
-      
-      <li><a href="/authors/yifan-zhang/">Yifan Zhang</a></li>
-    
-      
-      <li><a href="/authors/chaorui-deng/">Chaorui Deng</a></li>
-    
-      
-      <li><a href="/authors/junyi-cao/">Junyi Cao$^*$</a></li>
-    
-      
-      <li><a href="/authors/lizhao-liu/">Lizhao Liu$^*$</a></li>
-    
-  </ul>
+  
+  
+
+
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
+  
+  
+  
+  <div class="media author-card content-widget-hr">
     
-    <li class="page-item"><a class="page-link" href="/authors/page/2/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/4/">&raquo;</a></li>
-    
-  </ul>
-</nav>
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/yong-guo/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
 
 
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
 </div>
 
       
