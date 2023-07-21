@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Homepage of Yong Guo">
+  <meta name="description" content="Accepted by ICCV, 2023">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/david-stutz/">
+  <link rel="alternate" hreflang="en-us" href="/publication/tapadl/">
 
   
 
@@ -95,42 +95,91 @@
 
 
   
-  <link rel="alternate" href="/authors/david-stutz/index.xml" type="application/rss+xml" title="Yong Guo">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/david-stutz/">
+  <link rel="canonical" href="/publication/tapadl/">
 
   
   
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yong Guo">
-  <meta property="og:url" content="/authors/david-stutz/">
-  <meta property="og:title" content="David Stutz | Yong Guo">
-  <meta property="og:description" content="Homepage of Yong Guo"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/tapadl/">
+  <meta property="og:title" content="Robustifying Token Attention for Vision Transformers | Yong Guo">
+  <meta property="og:description" content="Accepted by ICCV, 2023"><meta property="og:image" content="/publication/tapadl/featured.jpg">
+  <meta property="twitter:image" content="/publication/tapadl/featured.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-07-21T00:18:12-08:00">
+    
+      <meta property="article:published_time" content="2023-07-21T00:18:12-08:00">
+    
+    <meta property="article:modified_time" content="2023-07-21T00:18:12-08:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/tapadl/"
+  },
+  "headline": "Robustifying Token Attention for Vision Transformers",
+  
+  "image": [
+    "/publication/tapadl/featured.jpg"
+  ],
+  
+  "datePublished": "2023-07-21T00:18:12-08:00",
+  "dateModified": "2023-07-21T00:18:12-08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "**Yong Guo**$^*$"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yong Guo",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/icon-512.png"
+    }
+  },
+  "description": "Accepted by ICCV, 2023"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
@@ -138,7 +187,7 @@
 
 
 
-  <title>David Stutz | Yong Guo</title>
+  <title>Robustifying Token Attention for Vision Transformers | Yong Guo</title>
 
 </head>
 
@@ -364,42 +413,227 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>David Stutz</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h2> <strong> Robustifying Token Attention for Vision Transformers </strong></h2>
+
+  
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong></a></span>, <span><a href="/authors/david-stutz/">David Stutz</a></span>, <span><a href="/authors/bernt-schiele/">Bernt Schiele</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2303.11126.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/guoyongcs/TAPADL" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
+
+
+
     
+    <div class="row">
+          
+          <div class="col-12 col-md-9">Published in <strong>ICCV 2023</strong></div>
+     </div>
+
+    <div class="d-md-none space-below"></div>
     
 
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">
+      <DIV align="justify">
+      Despite the success of vision transformers (ViTs), they still suffer from significant drops in accuracy in the presence of common corruptions, such as noise or blur. Interestingly, we observe that the attention mechanism of ViTs tends to rely on few important tokens, a phenomenon we call token overfocusing. More critically, these tokens are not robust to corruptions, often leading to highly diverging attention patterns. In this paper, we intend to alleviate this overfocusing issue and make attention more stable through two general techniques: First, our Token-aware Average Pooling (TAP) module encourages the local neighborhood of each token to take part in the attention mechanism. Specifically, TAP learns average pooling schemes for each token such that the information of potentially important tokens in the neighborhood can adaptively be taken into account. Second, we force the output tokens to aggregate information from a diverse set of input tokens rather than focusing on just a few by using our Attention Diversification Loss (ADL). We achieve this by penalizing high cosine similarity between the attention vectors of different tokens. In experiments, we apply our methods to a wide range of transformer architectures and improve robustness significantly. For example, we improve corruption robustness on ImageNet-C by 2.4% while simultaneously improving accuracy by 0.4% based on state-of-the-art robust architecture FAN. Also, when finetuning on semantic segmentation tasks, we improve robustness on CityScapes-C by 2.4% and ACDC by 3.1%.
+      </DIV>
+    </p>
     
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
     
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/tapadl/">Robustifying Token Attention for Vision Transformers</a>
-        </li>
-        
-        <li>
-          <a href="/publication/rspc/">Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions</a>
-        </li>
-        
-        <li>
-          <a href="/publication/ews/">Improving Robustness by Enhancing Weak Subnets</a>
-        </li>
-        
-      </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/yong-guo/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
     </div>
-    
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</div>
 
       
 

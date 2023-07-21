@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Homepage of Yong Guo">
+  <meta name="description" content="Accepted by ICCV, 2023">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/david-stutz/">
+  <link rel="alternate" hreflang="en-us" href="/publication/hcd/">
 
   
 
@@ -95,42 +95,91 @@
 
 
   
-  <link rel="alternate" href="/authors/david-stutz/index.xml" type="application/rss+xml" title="Yong Guo">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/david-stutz/">
+  <link rel="canonical" href="/publication/hcd/">
 
   
   
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Yong Guo">
-  <meta property="og:url" content="/authors/david-stutz/">
-  <meta property="og:title" content="David Stutz | Yong Guo">
-  <meta property="og:description" content="Homepage of Yong Guo"><meta property="og:image" content="/img/icon-192.png">
-  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/hcd/">
+  <meta property="og:title" content="Downscaled Representation Matters: Improving Image Rescaling with Collaborative Downscaled Images | Yong Guo">
+  <meta property="og:description" content="Accepted by ICCV, 2023"><meta property="og:image" content="/publication/hcd/featured.jpg">
+  <meta property="twitter:image" content="/publication/hcd/featured.jpg"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-07-21T00:18:12-08:00">
+    
+      <meta property="article:published_time" content="2023-07-19T00:18:12-08:00">
+    
+    <meta property="article:modified_time" content="2023-07-19T00:18:12-08:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/hcd/"
+  },
+  "headline": "Downscaled Representation Matters: Improving Image Rescaling with Collaborative Downscaled Images",
+  
+  "image": [
+    "/publication/hcd/featured.jpg"
+  ],
+  
+  "datePublished": "2023-07-19T00:18:12-08:00",
+  "dateModified": "2023-07-19T00:18:12-08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Bingna Xu$^*$"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yong Guo",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/icon-512.png"
+    }
+  },
+  "description": "Accepted by ICCV, 2023"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
@@ -138,7 +187,7 @@
 
 
 
-  <title>David Stutz | Yong Guo</title>
+  <title>Downscaled Representation Matters: Improving Image Rescaling with Collaborative Downscaled Images | Yong Guo</title>
 
 </head>
 
@@ -364,42 +413,219 @@
 </nav>
 
 
+  <div class="pub">
+
   
 
-<div class="universal-wrapper pt-3">
-  <h1>David Stutz</h1>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h2> <strong> Downscaled Representation Matters: Improving Image Rescaling with Collaborative Downscaled Images </strong></h2>
+
+  
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/bingna-xu/">Bingna Xu$^*$</a></span>, <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong>$^*$</a></span>, <span><a href="/authors/luoqian-jiang/">Luoqian Jiang</a></span>, <span><a href="/authors/mianjie-yu/">MianJie Yu</a></span>, <span><a href="/authors/jian-chen/">Jian Chen</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/pdf/2211.10643.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
+
+
+
     
+    <div class="row">
+          
+          <div class="col-12 col-md-9">Published in <strong>ICCV 2023</strong></div>
+     </div>
+
+    <div class="d-md-none space-below"></div>
     
 
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">
+      <DIV align="justify">
+      Deep networks have achieved great success in image rescaling (IR) task that seeks to learn the optimal downscaled representations, i.e., low-resolution (LR) images, to reconstruct the original high-resolution (HR) images. Compared with super-resolution methods that consider a fixed downscaling scheme, e.g., bicubic, IR often achieves significantly better reconstruction performance thanks to the learned downscaled representations. This highlights the importance of a good downscaled representation. Existing IR methods mainly learn the downscaled representation by jointly optimizing the downscaling and upscaling models. Unlike them, we seek to improve the downscaled representation through a different and more direct way – directly optimizing the downscaled image itself instead of the down-/upscaling models. Consequently, we propose a Hierarchical Collaborative Downscaling (HCD) method that performs gradient descent w.r.t. the reconstruction loss in both HR and LR domains to improve the downscaled representations, so as to boost IR performance. Extensive experiments show that our HCD significantly improves the reconstruction performance both quantitatively and qualitatively. Particularly, we improve over popular IR methods by &gt;0.57db PSNR on Set5. Moreover, we also highlight the flexibility of our HCD since it can generalize well across diverse image rescaling models.
+      </DIV>
+    </p>
     
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
     
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/tapadl/">Robustifying Token Attention for Vision Transformers</a>
-        </li>
-        
-        <li>
-          <a href="/publication/rspc/">Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions</a>
-        </li>
-        
-        <li>
-          <a href="/publication/ews/">Improving Robustness by Enhancing Weak Subnets</a>
-        </li>
-        
-      </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/bingna-xu/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
     </div>
-    
   </div>
-</section>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</div>
 
       
 

@@ -5,12 +5,20 @@
     <link>/authors/david-stutz/</link>
       <atom:link href="/authors/david-stutz/index.xml" rel="self" type="application/rss+xml" />
     <description>David Stutz</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 24 Feb 2023 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jul 2023 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>David Stutz</title>
       <link>/authors/david-stutz/</link>
     </image>
+    
+    <item>
+      <title>Robustifying Token Attention for Vision Transformers</title>
+      <link>/publication/tapadl/</link>
+      <pubDate>Fri, 21 Jul 2023 00:18:12 -0800</pubDate>
+      <guid>/publication/tapadl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions</title>

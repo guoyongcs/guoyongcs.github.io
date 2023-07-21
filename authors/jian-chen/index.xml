@@ -5,12 +5,20 @@
     <link>/authors/jian-chen/</link>
       <atom:link href="/authors/jian-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Jian Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2023 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jian Chen</title>
       <link>/authors/jian-chen/</link>
     </image>
+    
+    <item>
+      <title>Downscaled Representation Matters: Improving Image Rescaling with Collaborative Downscaled Images</title>
+      <link>/publication/hcd/</link>
+      <pubDate>Wed, 19 Jul 2023 00:18:12 -0800</pubDate>
+      <guid>/publication/hcd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>
