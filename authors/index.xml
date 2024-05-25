@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jul 2023 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 12 May 2024 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,120 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Fri, 21 Jul 2023 00:18:12 -0800</pubDate>
+      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Chen</title>
+      <link>/authors/jian-chen/</link>
+      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/jian-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiezhang Cao</title>
+      <link>/authors/jiezhang-cao/</link>
+      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/jiezhang-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingdong Wang</title>
+      <link>/authors/jingdong-wang/</link>
+      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/jingdong-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mingkui Tan</title>
+      <link>/authors/mingkui-tan/</link>
+      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/mingkui-tan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Chen</title>
+      <link>/authors/qi-chen/</link>
+      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/qi-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanwu Xu</title>
+      <link>/authors/yanwu-xu/</link>
+      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/yanwu-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeshuai Deng</title>
+      <link>/authors/zeshuai-deng/</link>
+      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/zeshuai-deng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enxuan Gu</title>
+      <link>/authors/enxuan-gu/</link>
+      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/enxuan-gu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guangzhong Cao</title>
+      <link>/authors/guangzhong-cao/</link>
+      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/guangzhong-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongwei Ge</title>
+      <link>/authors/hongwei-ge/</link>
+      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/hongwei-ge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huisi Wu</title>
+      <link>/authors/huisi-wu/</link>
+      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/huisi-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiaming Liang</title>
+      <link>/authors/jiaming-liang/</link>
+      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/jiaming-liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runhao Zeng</title>
+      <link>/authors/runhao-zeng/</link>
+      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/runhao-zeng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoyong Chen</title>
+      <link>/authors/xiaoyong-chen/</link>
+      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/xiaoyong-chen/</guid>
       <description></description>
     </item>
     
@@ -45,14 +157,6 @@
     </item>
     
     <item>
-      <title>Jian Chen</title>
-      <link>/authors/jian-chen/</link>
-      <pubDate>Wed, 19 Jul 2023 00:18:12 -0800</pubDate>
-      <guid>/authors/jian-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Luoqian Jiang</title>
       <link>/authors/luoqian-jiang/</link>
       <pubDate>Wed, 19 Jul 2023 00:18:12 -0800</pubDate>
@@ -77,26 +181,10 @@
     </item>
     
     <item>
-      <title>Mingkui Tan</title>
-      <link>/authors/mingkui-tan/</link>
-      <pubDate>Thu, 26 May 2022 00:18:12 -0800</pubDate>
-      <guid>/authors/mingkui-tan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Peilin Zhao</title>
       <link>/authors/peilin-zhao/</link>
       <pubDate>Thu, 26 May 2022 00:18:12 -0800</pubDate>
       <guid>/authors/peilin-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qi Chen</title>
-      <link>/authors/qi-chen/</link>
-      <pubDate>Thu, 26 May 2022 00:18:12 -0800</pubDate>
-      <guid>/authors/qi-chen/</guid>
       <description></description>
     </item>
     
@@ -113,38 +201,6 @@
       <link>/authors/zhipeng-li/</link>
       <pubDate>Thu, 26 May 2022 00:18:12 -0800</pubDate>
       <guid>/authors/zhipeng-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiezhang Cao$^*$</title>
-      <link>/authors/jiezhang-cao/</link>
-      <pubDate>Thu, 24 Feb 2022 00:18:12 -0800</pubDate>
-      <guid>/authors/jiezhang-cao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jingdong Wang</title>
-      <link>/authors/jingdong-wang/</link>
-      <pubDate>Thu, 24 Feb 2022 00:18:12 -0800</pubDate>
-      <guid>/authors/jingdong-wang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yanwu Xu</title>
-      <link>/authors/yanwu-xu/</link>
-      <pubDate>Thu, 24 Feb 2022 00:18:12 -0800</pubDate>
-      <guid>/authors/yanwu-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zeshuai Deng</title>
-      <link>/authors/zeshuai-deng/</link>
-      <pubDate>Thu, 24 Feb 2022 00:18:12 -0800</pubDate>
-      <guid>/authors/zeshuai-deng/</guid>
       <description></description>
     </item>
     
@@ -441,7 +497,7 @@
       <link>/authors/yong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/yong/</guid>
-      <description>&lt;p&gt;I am a post-doctoral researcher at Max Planck Institute for Informatics (MPI-INF), working with &lt;a href=&#34;https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele&#34;&gt;Prof. Bernt Schiele&lt;/a&gt;. I obtained my PhD degree with the School from South China University of Technology. My research interests include machine learning and computer vision.
+      <description>&lt;p&gt;I worked as a post-doctoral researcher at Max Planck Institute for Informatics (MPI-INF), working with &lt;a href=&#34;https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele&#34;&gt;Prof. Bernt Schiele&lt;/a&gt;. Before that, I obtained my PhD degree from South China University of Technology. My research interests include machine learning and computer vision.
 I also served as the reviewer for several top-tier conferences and journals, such as &lt;strong&gt;NeurIPS&lt;/strong&gt;, &lt;strong&gt;CVPR&lt;/strong&gt;, &lt;strong&gt;ICML&lt;/strong&gt;, &lt;strong&gt;TPAMI&lt;/strong&gt;, &lt;strong&gt;TIP&lt;/strong&gt;, &lt;strong&gt;TNNLS&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>

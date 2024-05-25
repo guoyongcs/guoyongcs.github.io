@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongwei Ge | Yong Guo</title>
+    <link>/authors/hongwei-ge/</link>
+      <atom:link href="/authors/hongwei-ge/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongwei Ge</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Feb 2024 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Hongwei Ge</title>
+      <link>/authors/hongwei-ge/</link>
+    </image>
+    
+    <item>
+      <title>CoDe: An Explicit Content Decoupling Framework for Image Restoration</title>
+      <link>/publication/code/</link>
+      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/code/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
