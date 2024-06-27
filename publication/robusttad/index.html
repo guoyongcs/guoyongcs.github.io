@@ -372,19 +372,24 @@
         
         
           
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
             
+          
           
         
 
-        
-        
-        
-        
-        
-        
-
         <li class="nav-item">
-          <a class="nav-link " href="https://guoyongcs.github.io/guoyong-materials/cv.pdf" target="_blank" rel="noopener"><span>CV</span></a>
+          <a class="nav-link " href="/#tags"><span>Internship & Collaboration</span></a>
         </li>
 
         
@@ -453,7 +458,7 @@
 
 
   
-  <span><a href="/authors/runhao-zeng/">Runhao Zeng</a></span>, <span><a href="/authors/xiaoyong-chen/">Xiaoyong Chen</a></span>, <span><a href="/authors/jiaming-liang/">Jiaming Liang</a></span>, <span><a href="/authors/huisi-wu/">Huisi Wu</a></span>, <span><a href="/authors/guangzhong-cao/">Guangzhong Cao</a></span>, <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong>$^*$</a></span>
+  <span><a href="/authors/runhao-zeng/">Runhao Zeng</a></span>, <span><a href="/authors/xiaoyong-chen/">Xiaoyong Chen</a></span>, <span><a href="/authors/jiaming-liang/">Jiaming Liang</a></span>, <span><a href="/authors/huisi-wu/">Huisi Wu</a></span>, <span><a href="/authors/guangzhong-cao/">Guangzhong Cao</a></span>, <span><strong>Yong Guo</strong>$^\dagger$</span>
 
   </div>
   
@@ -561,7 +566,7 @@
     <h3>Abstract</h3>
     <p class="pub-abstract">
       <DIV align="justify">
-      Temporal action detection (TAD) aims to locate action positions and recognize action categories in long-term untrimmed videos. Although many methods have achieved promising results, their robustness has not been thoroughly studied. In practice, we observe that temporal information in videos can be occasionally corrupted, such as missing or blurred frames. Interestingly, existing methods often incur a significant performance drop even if only one frame is affected. To formally evaluate the robustness, we establish two temporal corruption robustness benchmarks, namely THUMOS14-C and ActivityNet-v1.3-C. In this paper, we extensively analyze the robustness of seven leading TAD methods and obtain some interesting findings: 1) Existing methods are particularly vulnerable to temporal corruptions, and end-to-end methods are often more susceptible than those with a pre-trained feature extractor; 2) Vulnerability mainly comes from localization error rather than classification error; 3) When corruptions occur in the middle of an action instance, TAD models tend to yield the largest performance drop. Besides building a benchmark, we further develop a simple but effective robust training method to defend against temporal corruptions, through the FrameDrop augmentation and Temporal-Robust Consistency loss. Remarkably, our approach not only improves robustness but also yields promising improvements on clean data. We believe that this study will serve as a benchmark for future research in robust video analysis.
+      Temporal action detection (TAD) aims to locate action positions and recognize action categories in long-term untrimmed videos. Although many methods have achieved promising results their robustness has not been thoroughly studied. In practice we observe that temporal information in videos can be occasionally corrupted such as missing or blurred frames. Interestingly existing methods often incur a significant performance drop even if only one frame is affected. To formally evaluate the robustness we establish two temporal corruption robustness benchmarks namely THUMOS14-C and ActivityNet-v1.3-C. In this paper we extensively analyze the robustness of seven leading TAD methods and obtain some interesting findings: 1) Existing methods are particularly vulnerable to temporal corruptions and end-to-end methods are often more susceptible than those with a pre-trained feature extractor; 2) Vulnerability mainly comes from localization error rather than classification error; 3) When corruptions occur in the middle of an action instance TAD models tend to yield the largest performance drop. Besides building a benchmark we further develop a simple but effective robust training method to defend against temporal corruptions through the FrameDrop augmentation and Temporal-Robust Consistency loss. Remarkably our approach not only improves robustness but also yields promising improvements on clean data. We believe that this study will serve as a benchmark for future research in robust video analysis. Source code and models are available at <a href="https://github.com/Alvin-Zeng/temporal-robustness-benchmark">https://github.com/Alvin-Zeng/temporal-robustness-benchmark</a>.
       </DIV>
     </p>
     
