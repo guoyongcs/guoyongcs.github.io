@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingjing Ren | Yong Guo</title>
+    <link>/authors/jingjing-ren/</link>
+      <atom:link href="/authors/jingjing-ren/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingjing Ren</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jingjing Ren</title>
+      <link>/authors/jingjing-ren/</link>
+    </image>
+    
+    <item>
+      <title>UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks</title>
+      <link>/publication/ultrapixel/</link>
+      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/ultrapixel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,36 @@
     <link>/publication_types/1/</link>
       <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Feb 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>1</title>
       <link>/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution</title>
+      <link>/publication/2dquant/</link>
+      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/2dquant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized Diffusion Model for Image Super-Resolution</title>
+      <link>/publication/tartaa/</link>
+      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/tartaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks</title>
+      <link>/publication/ultrapixel/</link>
+      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/ultrapixel/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions</title>

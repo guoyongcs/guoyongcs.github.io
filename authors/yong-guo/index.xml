@@ -1,16 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>**Yong Guo**$^*$ | Yong Guo</title>
+    <title>**Yong Guo** | Yong Guo</title>
     <link>/authors/yong-guo/</link>
       <atom:link href="/authors/yong-guo/index.xml" rel="self" type="application/rss+xml" />
-    <description>**Yong Guo**$^*$</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 00:18:12 -0800</lastBuildDate>
+    <description>**Yong Guo**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>**Yong Guo**$^*$</title>
+      <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
     </image>
+    
+    <item>
+      <title>2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution</title>
+      <link>/publication/2dquant/</link>
+      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/2dquant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized Diffusion Model for Image Super-Resolution</title>
+      <link>/publication/tartaa/</link>
+      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/tartaa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks</title>
+      <link>/publication/ultrapixel/</link>
+      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/ultrapixel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model</title>
+      <link>/talk/drivegpt/</link>
+      <pubDate>Wed, 12 Jun 2024 00:18:12 -0800</pubDate>
+      <guid>/talk/drivegpt/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>Enhanced Long-Tailed Recognition with Contrastive CutMix Augmentation</title>

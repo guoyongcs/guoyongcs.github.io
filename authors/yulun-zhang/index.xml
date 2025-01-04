@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yulun Zhang | Yong Guo</title>
+    <link>/authors/yulun-zhang/</link>
+      <atom:link href="/authors/yulun-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yulun Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Yulun Zhang</title>
+      <link>/authors/yulun-zhang/</link>
+    </image>
+    
+    <item>
+      <title>2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution</title>
+      <link>/publication/2dquant/</link>
+      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/2dquant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binarized Diffusion Model for Image Super-Resolution</title>
+      <link>/publication/tartaa/</link>
+      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/tartaa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
