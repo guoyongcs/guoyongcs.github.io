@@ -5,12 +5,20 @@
     <link>/authors/wenbo-li/</link>
       <atom:link href="/authors/wenbo-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenbo Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2024 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Wenbo Li</title>
       <link>/authors/wenbo-li/</link>
     </image>
+    
+    <item>
+      <title>Restabilizing Diffusion Models with Predictive Noise Fusion Strategy for Image Super-Resolution</title>
+      <link>/publication/pnfs/</link>
+      <pubDate>Sat, 21 Dec 2024 00:18:12 -0800</pubDate>
+      <guid>/publication/pnfs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks</title>

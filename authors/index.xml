@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,80 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
+      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haolin Pan</title>
+      <link>/authors/haolin-pan/</link>
+      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/haolin-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Chen</title>
+      <link>/authors/jian-chen/</link>
+      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/jian-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Liu</title>
+      <link>/authors/jing-liu/</link>
+      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/jing-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shulian Zhang</title>
+      <link>/authors/shulian-zhang/</link>
+      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/shulian-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yulun Zhang</title>
+      <link>/authors/yulun-zhang/</link>
+      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/yulun-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bingna Xu</title>
+      <link>/authors/bingna-xu/</link>
+      <pubDate>Sat, 21 Dec 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/bingna-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiezhang Cao</title>
+      <link>/authors/jiezhang-cao/</link>
+      <pubDate>Sat, 21 Dec 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/jiezhang-cao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luoqian Jiang*</title>
+      <link>/authors/luoqian-jiang/</link>
+      <pubDate>Sat, 21 Dec 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/luoqian-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenbo Li</title>
+      <link>/authors/wenbo-li/</link>
+      <pubDate>Sat, 21 Dec 2024 00:18:12 -0800</pubDate>
+      <guid>/authors/wenbo-li/</guid>
       <description></description>
     </item>
     
@@ -109,14 +181,6 @@
     </item>
     
     <item>
-      <title>Wenbo Li</title>
-      <link>/authors/wenbo-li/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/wenbo-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xin Yuan</title>
       <link>/authors/xin-yuan/</link>
       <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
@@ -129,14 +193,6 @@
       <link>/authors/xiongfei-su/</link>
       <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
       <guid>/authors/xiongfei-su/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yulun Zhang</title>
-      <link>/authors/yulun-zhang/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/yulun-zhang/</guid>
       <description></description>
     </item>
     
@@ -157,26 +213,10 @@
     </item>
     
     <item>
-      <title>Haolin Pan$^*$</title>
-      <link>/authors/haolin-pan/</link>
-      <pubDate>Wed, 12 Jun 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/haolin-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hengshuang Zhao</title>
       <link>/authors/hengshuang-zhao/</link>
       <pubDate>Wed, 12 Jun 2024 00:18:12 -0800</pubDate>
       <guid>/authors/hengshuang-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jian Chen</title>
-      <link>/authors/jian-chen/</link>
-      <pubDate>Wed, 12 Jun 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/jian-chen/</guid>
       <description></description>
     </item>
     
@@ -225,14 +265,6 @@
       <link>/authors/zhenhua-xu/</link>
       <pubDate>Wed, 12 Jun 2024 00:18:12 -0800</pubDate>
       <guid>/authors/zhenhua-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiezhang Cao$^*$</title>
-      <link>/authors/jiezhang-cao/</link>
-      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/jiezhang-cao/</guid>
       <description></description>
     </item>
     
@@ -393,22 +425,6 @@
       <link>/authors/david-stutz/</link>
       <pubDate>Fri, 21 Jul 2023 00:18:12 -0800</pubDate>
       <guid>/authors/david-stutz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bingna Xu$^*$</title>
-      <link>/authors/bingna-xu/</link>
-      <pubDate>Wed, 19 Jul 2023 00:18:12 -0800</pubDate>
-      <guid>/authors/bingna-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Luoqian Jiang</title>
-      <link>/authors/luoqian-jiang/</link>
-      <pubDate>Wed, 19 Jul 2023 00:18:12 -0800</pubDate>
-      <guid>/authors/luoqian-jiang/</guid>
       <description></description>
     </item>
     
@@ -621,14 +637,6 @@
     </item>
     
     <item>
-      <title>Jing Liu</title>
-      <link>/authors/jing-liu/</link>
-      <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
-      <guid>/authors/jing-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Jinhui Zhu</title>
       <link>/authors/jinhui-zhu/</link>
       <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
@@ -729,8 +737,7 @@
       <link>/authors/yong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/yong/</guid>
-      <description>&lt;p&gt;I am an assistant chief scientist at Huawei and lead a research team. Previously, I worked as a post-doctoral researcher at Max Planck Institute for Informatics (MPI-INF), working with &lt;a href=&#34;https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele&#34;&gt;Prof. Bernt Schiele&lt;/a&gt;. Before that, I obtained my PhD degree from South China University of Technology. My research interests include machine learning and computer vision.
-I also served as the reviewer for several top-tier conferences and journals, such as &lt;strong&gt;NeurIPS&lt;/strong&gt;, &lt;strong&gt;CVPR&lt;/strong&gt;, &lt;strong&gt;TPAMI&lt;/strong&gt;, etc.&lt;/p&gt;
+      <description>&lt;p&gt;I am an assistant chief scientist at Huawei and lead a research team. Previously, I worked as a post-doctoral researcher at Max Planck Institute for Informatics (MPI-INF), working with &lt;a href=&#34;https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele&#34;&gt;Prof. Bernt Schiele&lt;/a&gt;. Before that, I obtained my PhD degree from South China University of Technology. My research interests include machine learning and computer vision.&lt;/p&gt;
 &lt;p&gt;${\color{red} \bf [Hiring!]}$ Actively recruiting &lt;a href=&#34;#tags&#34;&gt;research interns&lt;/a&gt;, scientists, and engineers, who would like to work in Shanghai. Please feel free to contact me!&lt;/p&gt;
 </description>
     </item>
