@@ -5,12 +5,20 @@
     <link>/authors/xiaoyong-chen/</link>
       <atom:link href="/authors/xiaoyong-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoyong Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Feb 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Xiaoyong Chen</title>
       <link>/authors/xiaoyong-chen/</link>
     </image>
+    
+    <item>
+      <title>Temporal Action Detection Model Compression by Progressive Block Drop</title>
+      <link>/publication/pbd/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/pbd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions</title>

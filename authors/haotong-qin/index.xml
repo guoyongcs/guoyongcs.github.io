@@ -5,12 +5,20 @@
     <link>/authors/haotong-qin/</link>
       <atom:link href="/authors/haotong-qin/index.xml" rel="self" type="application/rss+xml" />
     <description>Haotong Qin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Haotong Qin</title>
       <link>/authors/haotong-qin/</link>
     </image>
+    
+    <item>
+      <title>PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution</title>
+      <link>/publication/passionsr/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/passionsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution</title>

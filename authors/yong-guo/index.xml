@@ -5,12 +5,44 @@
     <link>/authors/yong-guo/</link>
       <atom:link href="/authors/yong-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>**Yong Guo**</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
     </image>
+    
+    <item>
+      <title>MambaIRv2: Attentive State Space Restoration</title>
+      <link>/publication/mambairv2/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/mambairv2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution</title>
+      <link>/publication/passionsr/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/passionsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segment Any-Quality Images with Generative Latent Space Enhancement</title>
+      <link>/publication/glesam/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/glesam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal Action Detection Model Compression by Progressive Block Drop</title>
+      <link>/publication/pbd/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/pbd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gap Preserving Distillation by Building Bidirectional Mappings with A Dynamic Teacher</title>

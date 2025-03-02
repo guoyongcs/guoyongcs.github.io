@@ -5,12 +5,36 @@
     <link>/authors/wenbo-li/</link>
       <atom:link href="/authors/wenbo-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenbo Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Wenbo Li</title>
       <link>/authors/wenbo-li/</link>
     </image>
+    
+    <item>
+      <title>MambaIRv2: Attentive State Space Restoration</title>
+      <link>/publication/mambairv2/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/mambairv2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution</title>
+      <link>/publication/passionsr/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/passionsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segment Any-Quality Images with Generative Latent Space Enhancement</title>
+      <link>/publication/glesam/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/glesam/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Restabilizing Diffusion Models with Predictive Noise Fusion Strategy for Image Super-Resolution</title>

@@ -5,12 +5,20 @@
     <link>/authors/runhao-zeng/</link>
       <atom:link href="/authors/runhao-zeng/index.xml" rel="self" type="application/rss+xml" />
     <description>Runhao Zeng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Feb 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Runhao Zeng</title>
       <link>/authors/runhao-zeng/</link>
     </image>
+    
+    <item>
+      <title>Temporal Action Detection Model Compression by Progressive Block Drop</title>
+      <link>/publication/pbd/</link>
+      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/pbd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions</title>
