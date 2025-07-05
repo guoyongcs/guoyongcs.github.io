@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,122 @@
     </image>
     
     <item>
-      <title>**Yong Guo***</title>
+      <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aoxue Li</title>
+      <link>/authors/aoxue-li/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/aoxue-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bangzhen Liu</title>
+      <link>/authors/bangzhen-liu/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/bangzhen-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Shao</title>
+      <link>/authors/bin-shao/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/bin-shao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haoyu Chen</title>
+      <link>/authors/haoyu-chen/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/haoyu-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haoze Sun</title>
+      <link>/authors/haoze-sun/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/haoze-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiaqi Xu</title>
+      <link>/authors/jiaqi-xu/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/jiaqi-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jingjing Ren</title>
+      <link>/authors/jingjing-ren/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/jingjing-ren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinpei Guo</title>
+      <link>/authors/jinpei-guo/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/jinpei-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Zhu</title>
+      <link>/authors/lei-zhu/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/lei-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shifeng Zhang</title>
+      <link>/authors/shifeng-zhang/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/shifeng-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenbo Li</title>
+      <link>/authors/wenbo-li/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/wenbo-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yulun Zhang</title>
+      <link>/authors/yulun-zhang/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/yulun-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng Chen</title>
+      <link>/authors/zheng-chen/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/zheng-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhongdao Wang</title>
+      <link>/authors/zhongdao-wang/</link>
+      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/zhongdao-wang/</guid>
       <description></description>
     </item>
     
@@ -109,14 +221,6 @@
     </item>
     
     <item>
-      <title>Wenbo Li</title>
-      <link>/authors/wenbo-li/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
-      <guid>/authors/wenbo-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xiaokang Yang</title>
       <link>/authors/xiaokang-yang/</link>
       <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
@@ -173,14 +277,6 @@
     </item>
     
     <item>
-      <title>Yulun Zhang</title>
-      <link>/authors/yulun-zhang/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
-      <guid>/authors/yulun-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Haolin Pan</title>
       <link>/authors/haolin-pan/</link>
       <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
@@ -221,7 +317,7 @@
     </item>
     
     <item>
-      <title>Jiezhang Cao$^*$</title>
+      <title>Jiezhang Cao</title>
       <link>/authors/jiezhang-cao/</link>
       <pubDate>Sat, 21 Dec 2024 00:18:12 -0800</pubDate>
       <guid>/authors/jiezhang-cao/</guid>
@@ -233,14 +329,6 @@
       <link>/authors/luoqian-jiang/</link>
       <pubDate>Sat, 21 Dec 2024 00:18:12 -0800</pubDate>
       <guid>/authors/luoqian-jiang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bin Shao</title>
-      <link>/authors/bin-shao/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/bin-shao/</guid>
       <description></description>
     </item>
     
@@ -261,34 +349,10 @@
     </item>
     
     <item>
-      <title>Haoyu Chen</title>
-      <link>/authors/haoyu-chen/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/haoyu-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jingjing Ren</title>
-      <link>/authors/jingjing-ren/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/jingjing-ren/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kai Liu</title>
       <link>/authors/kai-liu/</link>
       <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
       <guid>/authors/kai-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lei Zhu</title>
-      <link>/authors/lei-zhu/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/lei-zhu/</guid>
       <description></description>
     </item>
     
@@ -329,14 +393,6 @@
       <link>/authors/xiongfei-su/</link>
       <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
       <guid>/authors/xiongfei-su/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zheng Chen</title>
-      <link>/authors/zheng-chen/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/authors/zheng-chen/</guid>
       <description></description>
     </item>
     
@@ -477,7 +533,7 @@
     </item>
     
     <item>
-      <title>Yaofo Chen</title>
+      <title>Yaofo Chen$^*$</title>
       <link>/authors/yaofo-chen/</link>
       <pubDate>Thu, 02 May 2024 00:18:12 -0800</pubDate>
       <guid>/authors/yaofo-chen/</guid>
