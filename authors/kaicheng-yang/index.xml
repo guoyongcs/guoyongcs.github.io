@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kai Liu | Yong Guo</title>
-    <link>/authors/kai-liu/</link>
-      <atom:link href="/authors/kai-liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kai Liu</description>
+    <title>Kaicheng Yang | Yong Guo</title>
+    <link>/authors/kaicheng-yang/</link>
+      <atom:link href="/authors/kaicheng-yang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaicheng Yang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Kai Liu</title>
-      <link>/authors/kai-liu/</link>
+      <title>Kaicheng Yang</title>
+      <link>/authors/kaicheng-yang/</link>
     </image>
     
     <item>
@@ -19,14 +19,6 @@
       <guid>/publication/bimacosr/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution</title>
-      <link>/publication/2dquant/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/2dquant/</guid>
-      <description></description>
     </item>
     
   </channel>

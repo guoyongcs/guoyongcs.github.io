@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Homepage of Yong Guo">
+  <meta name="description" content="Accepted by ICML, 2025">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/">
+  <link rel="alternate" hreflang="en-us" href="/publication/fluxsr/">
 
   
 
@@ -95,14 +95,12 @@
 
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="Yong Guo">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/authors/">
+  <link rel="canonical" href="/publication/fluxsr/">
 
   
   
@@ -115,18 +113,63 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Yong Guo">
-  <meta property="og:url" content="/authors/">
-  <meta property="og:title" content="Authors | Yong Guo">
-  <meta property="og:description" content="Homepage of Yong Guo"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="og:url" content="/publication/fluxsr/">
+  <meta property="og:title" content="One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation | Yong Guo">
+  <meta property="og:description" content="Accepted by ICML, 2025"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2025-06-21T00:18:12-08:00">
+    
+      <meta property="article:published_time" content="2025-05-01T00:18:12-08:00">
+    
+    <meta property="article:modified_time" content="2025-05-01T00:18:12-08:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/fluxsr/"
+  },
+  "headline": "One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation",
+  
+  "datePublished": "2025-05-01T00:18:12-08:00",
+  "dateModified": "2025-05-01T00:18:12-08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Jianze Li"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yong Guo",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/img/icon-512.png"
+    }
+  },
+  "description": "Accepted by ICML, 2025"
+}
+</script>
+
+  
 
   
 
@@ -134,11 +177,14 @@
   
 
 
+  
 
 
 
 
-  <title>Authors | Yong Guo</title>
+
+
+  <title>One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation | Yong Guo</title>
 
 </head>
 
@@ -369,6 +415,85 @@
 </nav>
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h2> <strong> One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation </strong></h2>
+
+  
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/jianze-li/">Jianze Li</a></span>, <span><a href="/authors/jiezhang-cao/">Jiezhang Cao</a></span>, <span><a href="/authors/yong-guo/"><strong>Yong Guo</strong></a></span>, <span><a href="/authors/wenbo-li/">Wenbo Li</a></span>, <span><a href="/authors/yulun-zhang/">Yulun Zhang</a></span>
+
+  </div>
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -378,76 +503,133 @@
 
 
 
-
-
-
-
   
 
-  
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h2> <strong> Authors </strong></h2>
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/JianzeLi-114/FluxSR" target="_blank" rel="noopener">
+  Code
+</a>
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-  <ul>
+  <div class="article-container">
+
+
+
+
     
+    <div class="row">
+          
+          <div class="col-12 col-md-9">Published in <strong>ICML 2025</strong></div>
+     </div>
+
+    <div class="d-md-none space-below"></div>
     
-      
-      <li><a href="/authors/hongwei-ge/">Hongwei Ge</a></li>
+
     
-      
-      <li><a href="/authors/huisi-wu/">Huisi Wu</a></li>
+    <h3>Abstract</h3>
+    <p class="pub-abstract">
+      <DIV align="justify">
+      Diffusion models (DMs) have significantly advanced the development of real-world image super-resolution (Real-ISR), but the computational cost of multi-step diffusion models limits their application. One-step diffusion models generate high-quality images in a one sampling step, greatly reducing computational overhead and inference latency. However, most existing one-step diffusion methods are constrained by the performance of the teacher model, where poor teacher performance results in image artifacts. To address this limitation, we propose FluxSR, a novel one-step diffusion Real-ISR technique based on flow matching models. We use the state-of-the-art diffusion model FLUX.1-dev as both the teacher model and the base model. First, we introduce Flow Trajectory Distillation (FTD) to distill a multi-step flow matching model into a one-step Real-ISR. Second, to improve image realism and address high-frequency artifact issues in generated images, we propose TV-LPIPS as a perceptual loss and introduce Attention Diversification Loss (ADL) as a regularization term to reduce token similarity in transformer, thereby eliminating high-frequency artifacts. Comprehensive experiments demonstrate that our method outperforms existing one-step diffusion-based Real-ISR methods. The code and model will be released at <a href="https://github.com/JianzeLi-114/FluxSR">https://github.com/JianzeLi-114/FluxSR</a>.
+      </DIV>
+    </p>
     
-      
-      <li><a href="/authors/bernt-schiele/">Bernt Schiele</a></li>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><h1 id="example-imagepagejpg"><img src="page.jpg" alt="Example image"></h1>
+</div>
+
     
-      
-      <li><a href="/authors/david-stutz/">David Stutz</a></li>
-    
-      
-      <li><a href="/authors/junzhou-huang/">Junzhou Huang</a></li>
-    
-      
-      <li><a href="/authors/peilin-zhao/">Peilin Zhao</a></li>
-    
-      
-      <li><a href="/authors/yin-zheng/">Yin Zheng</a></li>
-    
-      
-      <li><a href="/authors/zhipeng-li/">Zhipeng Li</a></li>
-    
-      
-      <li><a href="/authors/kui-jia/">Kui Jia</a></li>
-    
-      
-      <li><a href="/authors/minli-li/">Minli Li</a></li>
-    
-  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
+  
     
-    <li class="page-item"><a class="page-link" href="/authors/page/7/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/9/">&raquo;</a></li>
-    
-  </ul>
-</nav>
+  
+  
 
 
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/jianze-li/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
 </div>
 
       

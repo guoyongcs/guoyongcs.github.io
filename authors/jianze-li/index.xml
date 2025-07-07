@@ -5,12 +5,21 @@
     <link>/authors/jianze-li/</link>
       <atom:link href="/authors/jianze-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianze Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jianze Li</title>
       <link>/authors/jianze-li/</link>
     </image>
+    
+    <item>
+      <title>One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation</title>
+      <link>/publication/fluxsr/</link>
+      <pubDate>Thu, 01 May 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/fluxsr/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution</title>

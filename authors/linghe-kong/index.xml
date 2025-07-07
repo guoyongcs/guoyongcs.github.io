@@ -5,12 +5,21 @@
     <link>/authors/linghe-kong/</link>
       <atom:link href="/authors/linghe-kong/index.xml" rel="self" type="application/rss+xml" />
     <description>Linghe Kong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Linghe Kong</title>
       <link>/authors/linghe-kong/</link>
     </image>
+    
+    <item>
+      <title>BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution</title>
+      <link>/publication/bimacosr/</link>
+      <pubDate>Thu, 01 May 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/bimacosr/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution</title>

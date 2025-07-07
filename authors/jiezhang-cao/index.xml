@@ -5,12 +5,21 @@
     <link>/authors/jiezhang-cao/</link>
       <atom:link href="/authors/jiezhang-cao/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiezhang Cao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Dec 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jiezhang Cao</title>
       <link>/authors/jiezhang-cao/</link>
     </image>
+    
+    <item>
+      <title>One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation</title>
+      <link>/publication/fluxsr/</link>
+      <pubDate>Thu, 01 May 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/fluxsr/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>Restabilizing Diffusion Models with Predictive Noise Fusion Strategy for Image Super-Resolution</title>
