@@ -5,12 +5,20 @@
     <link>/authors/jinpei-guo/</link>
       <atom:link href="/authors/jinpei-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinpei Guo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jinpei Guo</title>
       <link>/authors/jinpei-guo/</link>
     </image>
+    
+    <item>
+      <title>OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates</title>
+      <link>/publication/oscar/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/oscar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal</title>

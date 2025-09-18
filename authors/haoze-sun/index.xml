@@ -5,12 +5,20 @@
     <link>/authors/haoze-sun/</link>
       <atom:link href="/authors/haoze-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Haoze Sun</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Haoze Sun</title>
       <link>/authors/haoze-sun/</link>
     </image>
+    
+    <item>
+      <title>PocketSR: The Super-Resolution Expert in Your Pocket Mobiles</title>
+      <link>/publication/pocketsr/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/pocketsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis</title>

@@ -5,12 +5,28 @@
     <link>/authors/renjing-pei/</link>
       <atom:link href="/authors/renjing-pei/index.xml" rel="self" type="application/rss+xml" />
     <description>Renjing Pei</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Renjing Pei</title>
       <link>/authors/renjing-pei/</link>
     </image>
+    
+    <item>
+      <title>PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement</title>
+      <link>/publication/pmqve/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/pmqve/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PocketSR: The Super-Resolution Expert in Your Pocket Mobiles</title>
+      <link>/publication/pocketsr/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/pocketsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks</title>

@@ -5,12 +5,28 @@
     <link>/authors/xin-yuan/</link>
       <atom:link href="/authors/xin-yuan/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Yuan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Xin Yuan</title>
       <link>/authors/xin-yuan/</link>
     </image>
+    
+    <item>
+      <title>DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution</title>
+      <link>/publication/dove/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/dove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unleashing the Power of One-Step Diffusion based Image Super-Resolution via a Large-Scale Diffusion Discriminator</title>
+      <link>/publication/d3sr/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/d3sr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution</title>

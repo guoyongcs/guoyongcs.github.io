@@ -5,12 +5,20 @@
     <link>/authors/kai-liu/</link>
       <atom:link href="/authors/kai-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Kai Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Kai Liu</title>
       <link>/authors/kai-liu/</link>
     </image>
+    
+    <item>
+      <title>OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates</title>
+      <link>/publication/oscar/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/oscar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution</title>

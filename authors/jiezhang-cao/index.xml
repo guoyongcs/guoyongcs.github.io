@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jiezhang Cao | Yong Guo</title>
+    <title>Jiezhang Cao$^*$ | Yong Guo</title>
     <link>/authors/jiezhang-cao/</link>
       <atom:link href="/authors/jiezhang-cao/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jiezhang Cao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:18:12 -0800</lastBuildDate>
+    <description>Jiezhang Cao$^*$</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Jiezhang Cao</title>
+      <title>Jiezhang Cao$^*$</title>
       <link>/authors/jiezhang-cao/</link>
     </image>
+    
+    <item>
+      <title>Unleashing the Power of One-Step Diffusion based Image Super-Resolution via a Large-Scale Diffusion Discriminator</title>
+      <link>/publication/d3sr/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/d3sr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation</title>

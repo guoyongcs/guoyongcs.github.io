@@ -5,12 +5,28 @@
     <link>/authors/zheng-chen/</link>
       <atom:link href="/authors/zheng-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Zheng Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Zheng Chen</title>
       <link>/authors/zheng-chen/</link>
     </image>
+    
+    <item>
+      <title>DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution</title>
+      <link>/publication/dove/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/dove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates</title>
+      <link>/publication/oscar/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/oscar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal</title>

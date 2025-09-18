@@ -5,12 +5,28 @@
     <link>/authors/xiongfei-su/</link>
       <atom:link href="/authors/xiongfei-su/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiongfei Su</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Xiongfei Su</title>
       <link>/authors/xiongfei-su/</link>
     </image>
+    
+    <item>
+      <title>DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution</title>
+      <link>/publication/dove/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/dove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unleashing the Power of One-Step Diffusion based Image Super-Resolution via a Large-Scale Diffusion Discriminator</title>
+      <link>/publication/d3sr/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/d3sr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Binarized Diffusion Model for Image Super-Resolution</title>

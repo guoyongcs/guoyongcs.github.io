@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kewei Zhang | Yong Guo</title>
+    <link>/authors/kewei-zhang/</link>
+      <atom:link href="/authors/kewei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kewei Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Kewei Zhang</title>
+      <link>/authors/kewei-zhang/</link>
+    </image>
+    
+    <item>
+      <title>DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution</title>
+      <link>/publication/dove/</link>
+      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/dove/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
