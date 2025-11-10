@@ -5,12 +5,36 @@
     <link>/authors/wenbo-li/</link>
       <atom:link href="/authors/wenbo-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenbo Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Wenbo Li</title>
       <link>/authors/wenbo-li/</link>
     </image>
+    
+    <item>
+      <title>FastFLUX: Pruning FLUX with Block-wise Replacement and Sandwich Training</title>
+      <link>/publication/fastflux/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/fastflux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution</title>
+      <link>/publication/quantvsr/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/quantvsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SODiff：Semantic-Oriented Diffusion Model for JPEG Compression Artifacts Removal</title>
+      <link>/publication/sodiff/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/sodiff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates</title>

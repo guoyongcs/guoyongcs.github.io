@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,112 @@
     <item>
       <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
       <guid>/authors/yong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bowen Chai</title>
+      <link>/authors/bowen-chai/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/bowen-chai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuhan Cai</title>
+      <link>/authors/fuhan-cai/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/fuhan-cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuhan_Cai</title>
+      <link>/authors/fuhan_cai/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/fuhan_cai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian Chen</title>
+      <link>/authors/jian-chen/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/jian-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jie Li</title>
+      <link>/authors/jie-li/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/jie-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jinpei Guo</title>
+      <link>/authors/jinpei-guo/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/jinpei-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jue Gong</title>
+      <link>/authors/jue-gong/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/jue-gong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LiBo Zhu</title>
+      <link>/authors/libo-zhu/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/libo-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tingyu Yang</title>
+      <link>/authors/tingyu-yang/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/tingyu-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenbo Li</title>
+      <link>/authors/wenbo-li/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/wenbo-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiangzhong Fang</title>
+      <link>/authors/xiangzhong-fang/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/xiangzhong-fang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yulun Zhang</title>
+      <link>/authors/yulun-zhang/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/yulun-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng Chen</title>
+      <link>/authors/zheng-chen/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/authors/zheng-chen/</guid>
       <description></description>
     </item>
     
@@ -85,14 +189,6 @@
     </item>
     
     <item>
-      <title>Jinpei Guo</title>
-      <link>/authors/jinpei-guo/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/authors/jinpei-guo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kai Liu</title>
       <link>/authors/kai-liu/</link>
       <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
@@ -145,14 +241,6 @@
       <link>/authors/wang-rao/</link>
       <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
       <guid>/authors/wang-rao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wenbo Li</title>
-      <link>/authors/wenbo-li/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/authors/wenbo-li/</guid>
       <description></description>
     </item>
     
@@ -221,26 +309,10 @@
     </item>
     
     <item>
-      <title>Yulun Zhang</title>
-      <link>/authors/yulun-zhang/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/authors/yulun-zhang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ZhanFeng Feng</title>
       <link>/authors/zhanfeng-feng/</link>
       <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
       <guid>/authors/zhanfeng-feng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zheng Chen</title>
-      <link>/authors/zheng-chen/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/authors/zheng-chen/</guid>
       <description></description>
     </item>
     
@@ -381,14 +453,6 @@
     </item>
     
     <item>
-      <title>LiBo Zhu</title>
-      <link>/authors/libo-zhu/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
-      <guid>/authors/libo-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Runhao Zeng</title>
       <link>/authors/runhao-zeng/</link>
       <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
@@ -481,14 +545,6 @@
       <link>/authors/haolin-pan/</link>
       <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
       <guid>/authors/haolin-pan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jian Chen</title>
-      <link>/authors/jian-chen/</link>
-      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
-      <guid>/authors/jian-chen/</guid>
       <description></description>
     </item>
     
@@ -669,7 +725,7 @@
     </item>
     
     <item>
-      <title>Yaofo Chen</title>
+      <title>Yaofo Chen$^*$</title>
       <link>/authors/yaofo-chen/</link>
       <pubDate>Thu, 02 May 2024 00:18:12 -0800</pubDate>
       <guid>/authors/yaofo-chen/</guid>

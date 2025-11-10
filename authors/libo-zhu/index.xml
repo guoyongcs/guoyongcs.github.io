@@ -5,12 +5,20 @@
     <link>/authors/libo-zhu/</link>
       <atom:link href="/authors/libo-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>LiBo Zhu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>LiBo Zhu</title>
       <link>/authors/libo-zhu/</link>
     </image>
+    
+    <item>
+      <title>QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution</title>
+      <link>/publication/quantvsr/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/quantvsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiangzhong Fang | Yong Guo</title>
+    <link>/authors/xiangzhong-fang/</link>
+      <atom:link href="/authors/xiangzhong-fang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiangzhong Fang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Xiangzhong Fang</title>
+      <link>/authors/xiangzhong-fang/</link>
+    </image>
+    
+    <item>
+      <title>FastFLUX: Pruning FLUX with Block-wise Replacement and Sandwich Training</title>
+      <link>/publication/fastflux/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/fastflux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

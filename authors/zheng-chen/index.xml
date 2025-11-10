@@ -5,12 +5,20 @@
     <link>/authors/zheng-chen/</link>
       <atom:link href="/authors/zheng-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Zheng Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Zheng Chen</title>
       <link>/authors/zheng-chen/</link>
     </image>
+    
+    <item>
+      <title>QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution</title>
+      <link>/publication/quantvsr/</link>
+      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
+      <guid>/publication/quantvsr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution</title>
