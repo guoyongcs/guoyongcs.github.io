@@ -5,7 +5,7 @@
     <link>/authors/zheng-chen/</link>
       <atom:link href="/authors/zheng-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Zheng Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Zheng Chen</title>
@@ -13,51 +13,10 @@
     </image>
     
     <item>
-      <title>QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution</title>
-      <link>/publication/quantvsr/</link>
-      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/quantvsr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>DOVE: Efficient One-Step Diffusion Model for Real-World Video Super-Resolution</title>
       <link>/publication/dove/</link>
       <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
       <guid>/publication/dove/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates</title>
-      <link>/publication/oscar/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/oscar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal</title>
-      <link>/publication/codiff/</link>
-      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/codiff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution</title>
-      <link>/publication/bimacosr/</link>
-      <pubDate>Thu, 01 May 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/bimacosr/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Binarized Diffusion Model for Image Super-Resolution</title>
-      <link>/publication/tartaa/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/tartaa/</guid>
       <description></description>
     </item>
     

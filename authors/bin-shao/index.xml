@@ -5,20 +5,12 @@
     <link>/authors/bin-shao/</link>
       <atom:link href="/authors/bin-shao/index.xml" rel="self" type="application/rss+xml" />
     <description>Bin Shao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Jun 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Bin Shao</title>
       <link>/authors/bin-shao/</link>
     </image>
-    
-    <item>
-      <title>Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis</title>
-      <link>/publication/turbo2k/</link>
-      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/turbo2k/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks</title>

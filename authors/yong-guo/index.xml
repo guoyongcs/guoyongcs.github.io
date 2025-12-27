@@ -1,39 +1,74 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>**Yong Guo*** | Yong Guo</title>
+    <title>**Yong Guo** | Yong Guo</title>
     <link>/authors/yong-guo/</link>
       <atom:link href="/authors/yong-guo/index.xml" rel="self" type="application/rss+xml" />
-    <description>**Yong Guo***</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:18:12 -0800</lastBuildDate>
+    <description>**Yong Guo**</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Feb 2126 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>**Yong Guo***</title>
+      <title>**Yong Guo**</title>
       <link>/authors/yong-guo/</link>
     </image>
     
     <item>
-      <title>FastFLUX: Pruning FLUX with Block-wise Replacement and Sandwich Training</title>
-      <link>/publication/fastflux/</link>
-      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/fastflux/</guid>
+      <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
+      <link>/publication/drn/</link>
+      <pubDate>Sun, 24 Feb 2126 00:18:12 -0800</pubDate>
+      <guid>/publication/drn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution</title>
-      <link>/publication/quantvsr/</link>
-      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/quantvsr/</guid>
+      <title>MambaIRv2: Attentive State Space Restoration</title>
+      <link>/publication/mambairv2/</link>
+      <pubDate>Wed, 21 Feb 2125 00:18:12 -0800</pubDate>
+      <guid>/publication/mambairv2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SODiff：Semantic-Oriented Diffusion Model for JPEG Compression Artifacts Removal</title>
-      <link>/publication/sodiff/</link>
-      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/sodiff/</guid>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Tue, 02 Jun 2122 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
+      <link>/publication/nat/</link>
+      <pubDate>Sat, 06 Sep 2121 00:18:12 -0800</pubDate>
+      <guid>/publication/nat/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robustifying Token Attention for Vision Transformers</title>
+      <link>/publication/tapadl/</link>
+      <pubDate>Sun, 21 Jul 2120 00:18:12 -0800</pubDate>
+      <guid>/publication/tapadl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
+      <link>/publication/cnas/</link>
+      <pubDate>Sat, 01 Jun 2120 00:18:12 -0800</pubDate>
+      <guid>/publication/cnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>
+      <link>/publication/ctnas/</link>
+      <pubDate>Wed, 07 Feb 2120 00:19:12 -0800</pubDate>
+      <guid>/publication/ctnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
     </item>
     
     <item>
@@ -45,133 +80,12 @@
     </item>
     
     <item>
-      <title>OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates</title>
-      <link>/publication/oscar/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/oscar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement</title>
-      <link>/publication/pmqve/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/pmqve/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PocketSR: The Super-Resolution Expert in Your Pocket Mobiles</title>
-      <link>/publication/pocketsr/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/pocketsr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unleashing the Power of One-Step Diffusion based Image Super-Resolution via a Large-Scale Diffusion Discriminator</title>
-      <link>/publication/d3sr/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/d3sr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal</title>
-      <link>/publication/codiff/</link>
-      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/codiff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis</title>
-      <link>/publication/turbo2k/</link>
-      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/turbo2k/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution</title>
-      <link>/publication/bimacosr/</link>
-      <pubDate>Thu, 01 May 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/bimacosr/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
       <title>One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation</title>
       <link>/publication/fluxsr/</link>
       <pubDate>Thu, 01 May 2025 00:18:12 -0800</pubDate>
       <guid>/publication/fluxsr/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>MambaIRv2: Attentive State Space Restoration</title>
-      <link>/publication/mambairv2/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/mambairv2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution</title>
-      <link>/publication/passionsr/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/passionsr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Segment Any-Quality Images with Generative Latent Space Enhancement</title>
-      <link>/publication/glesam/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/glesam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Temporal Action Detection Model Compression by Progressive Block Drop</title>
-      <link>/publication/pbd/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/pbd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gap Preserving Distillation by Building Bidirectional Mappings with A Dynamic Teacher</title>
-      <link>/publication/gpd/</link>
-      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/gpd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Restabilizing Diffusion Models with Predictive Noise Fusion Strategy for Image Super-Resolution</title>
-      <link>/publication/pnfs/</link>
-      <pubDate>Sat, 21 Dec 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/pnfs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution</title>
-      <link>/publication/2dquant/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/2dquant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Binarized Diffusion Model for Image Super-Resolution</title>
-      <link>/publication/tartaa/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/tartaa/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -219,84 +133,10 @@
     </item>
     
     <item>
-      <title>Benchmarking the Robustness of Temporal Action Detection Models Against Temporal Corruptions</title>
-      <link>/publication/robusttad/</link>
-      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/robusttad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CoDe: An Explicit Content Decoupling Framework for Image Restoration</title>
-      <link>/publication/code/</link>
-      <pubDate>Sat, 24 Feb 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/code/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robustifying Token Attention for Vision Transformers</title>
-      <link>/publication/tapadl/</link>
-      <pubDate>Fri, 21 Jul 2023 00:18:12 -0800</pubDate>
-      <guid>/publication/tapadl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Downscaled Representation Matters: Improving Image Rescaling with Collaborative Downscaled Images</title>
-      <link>/publication/hcd/</link>
-      <pubDate>Wed, 19 Jul 2023 00:18:12 -0800</pubDate>
-      <guid>/publication/hcd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Robustness of Vision Transformers by Reducing Sensitivity to Patch Corruptions</title>
-      <link>/publication/rspc/</link>
-      <pubDate>Fri, 24 Feb 2023 00:18:12 -0800</pubDate>
-      <guid>/publication/rspc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Robustness by Enhancing Weak Subnets</title>
-      <link>/publication/ews/</link>
-      <pubDate>Mon, 04 Jul 2022 00:18:12 -0800</pubDate>
-      <guid>/publication/ews/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>
       <link>/talk/nat&#43;&#43;/</link>
       <pubDate>Thu, 26 May 2022 00:18:12 -0800</pubDate>
       <guid>/talk/nat&#43;&#43;/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
-      <link>/publication/drn/</link>
-      <pubDate>Thu, 24 Feb 2022 00:18:12 -0800</pubDate>
-      <guid>/publication/drn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
-      <link>/publication/nat/</link>
-      <pubDate>Mon, 06 Sep 2021 00:18:12 -0800</pubDate>
-      <guid>/publication/nat/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
-      <link>/publication/cnas/</link>
-      <pubDate>Tue, 01 Jun 2021 00:18:12 -0800</pubDate>
-      <guid>/publication/cnas/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
     </item>
@@ -307,15 +147,6 @@
       <pubDate>Tue, 25 May 2021 00:18:12 -0800</pubDate>
       <guid>/talk/cac/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>
-      <link>/publication/ctnas/</link>
-      <pubDate>Sun, 07 Feb 2021 00:19:12 -0800</pubDate>
-      <guid>/publication/ctnas/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
     </item>
     
     <item>
@@ -347,30 +178,6 @@
       <link>/talk/dinas/</link>
       <pubDate>Tue, 25 Sep 2018 00:18:12 -0800</pubDate>
       <guid>/talk/dinas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Double Forward Propagation for Memorized Batch Normalization</title>
-      <link>/publication/mbn/</link>
-      <pubDate>Thu, 08 Feb 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/mbn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial Learning with Local Coordinate Coding</title>
-      <link>/publication/lccgan/</link>
-      <pubDate>Wed, 07 Feb 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/lccgan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dynamic Extension Nets for Few-shot Semantic Segmentation</title>
-      <link>/publication/denet/</link>
-      <pubDate>Mon, 05 Feb 2018 00:19:12 -0800</pubDate>
-      <guid>/publication/denet/</guid>
       <description></description>
     </item>
     
@@ -410,27 +217,10 @@
     </item>
     
     <item>
-      <title>AdaXpert: Adapting Neural Architecture for Growing Data</title>
-      <link>/publication/adaxpert/</link>
-      <pubDate>Sun, 05 Mar 2017 00:18:12 -0800</pubDate>
-      <guid>/publication/adaxpert/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Online Feature Selection of Class Imbalance via PA Algorithm</title>
       <link>/talk/patg/</link>
       <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
       <guid>/talk/patg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
-      <link>/publication/dcp/</link>
-      <pubDate>Thu, 02 Jun 2016 00:18:12 -0800</pubDate>
-      <guid>/publication/dcp/</guid>
       <description></description>
     </item>
     

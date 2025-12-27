@@ -5,20 +5,12 @@
     <link>/authors/long-peng/</link>
       <atom:link href="/authors/long-peng/index.xml" rel="self" type="application/rss+xml" />
     <description>Long Peng</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Long Peng</title>
       <link>/authors/long-peng/</link>
     </image>
-    
-    <item>
-      <title>PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement</title>
-      <link>/publication/pmqve/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/pmqve/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks</title>

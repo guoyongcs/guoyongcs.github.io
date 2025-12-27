@@ -5,7 +5,7 @@
     <link>/authors/jing-liu/</link>
       <atom:link href="/authors/jing-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jing Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2122 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Jing Liu</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Gap Preserving Distillation by Building Bidirectional Mappings with A Dynamic Teacher</title>
-      <link>/publication/gpd/</link>
-      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/gpd/</guid>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Tue, 02 Jun 2122 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
       <description></description>
     </item>
     
@@ -25,14 +25,6 @@
       <link>/talk/dkp/</link>
       <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
       <guid>/talk/dkp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
-      <link>/publication/dcp/</link>
-      <pubDate>Thu, 02 Jun 2016 00:18:12 -0800</pubDate>
-      <guid>/publication/dcp/</guid>
       <description></description>
     </item>
     

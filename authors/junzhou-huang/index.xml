@@ -5,7 +5,7 @@
     <link>/authors/junzhou-huang/</link>
       <atom:link href="/authors/junzhou-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Junzhou Huang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2122 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Junzhou Huang</title>
@@ -13,18 +13,17 @@
     </image>
     
     <item>
-      <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>
-      <link>/talk/nat&#43;&#43;/</link>
-      <pubDate>Thu, 26 May 2022 00:18:12 -0800</pubDate>
-      <guid>/talk/nat&#43;&#43;/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Tue, 02 Jun 2122 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
       <link>/publication/nat/</link>
-      <pubDate>Mon, 06 Sep 2021 00:18:12 -0800</pubDate>
+      <pubDate>Sat, 06 Sep 2121 00:18:12 -0800</pubDate>
       <guid>/publication/nat/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
@@ -33,8 +32,17 @@
     <item>
       <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
       <link>/publication/cnas/</link>
-      <pubDate>Tue, 01 Jun 2021 00:18:12 -0800</pubDate>
+      <pubDate>Sat, 01 Jun 2120 00:18:12 -0800</pubDate>
       <guid>/publication/cnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>
+      <link>/talk/nat&#43;&#43;/</link>
+      <pubDate>Thu, 26 May 2022 00:18:12 -0800</pubDate>
+      <guid>/talk/nat&#43;&#43;/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
     </item>
@@ -56,26 +64,10 @@
     </item>
     
     <item>
-      <title>Adversarial Learning with Local Coordinate Coding</title>
-      <link>/publication/lccgan/</link>
-      <pubDate>Wed, 07 Feb 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/lccgan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Discrimination-aware Network Pruning for Deep Model Compression</title>
       <link>/talk/dkp/</link>
       <pubDate>Mon, 04 Sep 2017 00:18:12 -0800</pubDate>
       <guid>/talk/dkp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
-      <link>/publication/dcp/</link>
-      <pubDate>Thu, 02 Jun 2016 00:18:12 -0800</pubDate>
-      <guid>/publication/dcp/</guid>
       <description></description>
     </item>
     

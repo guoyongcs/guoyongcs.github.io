@@ -20,21 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Unleashing the Power of One-Step Diffusion based Image Super-Resolution via a Large-Scale Diffusion Discriminator</title>
-      <link>/publication/d3sr/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/d3sr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Binarized Diffusion Model for Image Super-Resolution</title>
-      <link>/publication/tartaa/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/tartaa/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

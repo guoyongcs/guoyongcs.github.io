@@ -5,7 +5,7 @@
     <link>/authors/yulun-zhang/</link>
       <atom:link href="/authors/yulun-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yulun Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2125 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Yulun Zhang</title>
@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>QuantVSR: Low-Bit Post-Training Quantization for Real-World Video Super-Resolution</title>
-      <link>/publication/quantvsr/</link>
-      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/quantvsr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SODiff：Semantic-Oriented Diffusion Model for JPEG Compression Artifacts Removal</title>
-      <link>/publication/sodiff/</link>
-      <pubDate>Sun, 09 Nov 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/sodiff/</guid>
+      <title>MambaIRv2: Attentive State Space Restoration</title>
+      <link>/publication/mambairv2/</link>
+      <pubDate>Wed, 21 Feb 2125 00:18:12 -0800</pubDate>
+      <guid>/publication/mambairv2/</guid>
       <description></description>
     </item>
     
@@ -37,93 +29,12 @@
     </item>
     
     <item>
-      <title>OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates</title>
-      <link>/publication/oscar/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/oscar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PMQ-VE: Progressive Multi-Frame Quantization for Video Enhancement</title>
-      <link>/publication/pmqve/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/pmqve/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unleashing the Power of One-Step Diffusion based Image Super-Resolution via a Large-Scale Diffusion Discriminator</title>
-      <link>/publication/d3sr/</link>
-      <pubDate>Thu, 18 Sep 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/d3sr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal</title>
-      <link>/publication/codiff/</link>
-      <pubDate>Sat, 21 Jun 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/codiff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BiMaCoSR: Binary One-Step Diffusion Model Leveraging Flexible Matrix Compression for Real Super-Resolution</title>
-      <link>/publication/bimacosr/</link>
-      <pubDate>Thu, 01 May 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/bimacosr/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
       <title>One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation</title>
       <link>/publication/fluxsr/</link>
       <pubDate>Thu, 01 May 2025 00:18:12 -0800</pubDate>
       <guid>/publication/fluxsr/</guid>
       <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>MambaIRv2: Attentive State Space Restoration</title>
-      <link>/publication/mambairv2/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/mambairv2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PassionSR: Post-Training Quantization with Adaptive Scale in One-Step Diffusion based Image Super-Resolution</title>
-      <link>/publication/passionsr/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/passionsr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gap Preserving Distillation by Building Bidirectional Mappings with A Dynamic Teacher</title>
-      <link>/publication/gpd/</link>
-      <pubDate>Tue, 21 Jan 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/gpd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2DQuant: Low-bit Post-Training Quantization for Image Super-Resolution</title>
-      <link>/publication/2dquant/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/2dquant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Binarized Diffusion Model for Image Super-Resolution</title>
-      <link>/publication/tartaa/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/tartaa/</guid>
-      <description></description>
     </item>
     
   </channel>

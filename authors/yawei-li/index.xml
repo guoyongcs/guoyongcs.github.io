@@ -5,7 +5,7 @@
     <link>/authors/yawei-li/</link>
       <atom:link href="/authors/yawei-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Yawei Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Feb 2025 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Feb 2125 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Yawei Li</title>
@@ -15,7 +15,7 @@
     <item>
       <title>MambaIRv2: Attentive State Space Restoration</title>
       <link>/publication/mambairv2/</link>
-      <pubDate>Fri, 21 Feb 2025 00:18:12 -0800</pubDate>
+      <pubDate>Wed, 21 Feb 2125 00:18:12 -0800</pubDate>
       <guid>/publication/mambairv2/</guid>
       <description></description>
     </item>

@@ -5,12 +5,20 @@
     <link>/authors/qingyao-wu/</link>
       <atom:link href="/authors/qingyao-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Qingyao Wu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2019 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2122 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Qingyao Wu</title>
       <link>/authors/qingyao-wu/</link>
     </image>
+    
+    <item>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Tue, 02 Jun 2122 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis</title>
@@ -25,30 +33,6 @@
       <link>/talk/lccgan_jrnl/</link>
       <pubDate>Fri, 08 Feb 2019 00:18:12 -0800</pubDate>
       <guid>/talk/lccgan_jrnl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Double Forward Propagation for Memorized Batch Normalization</title>
-      <link>/publication/mbn/</link>
-      <pubDate>Thu, 08 Feb 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/mbn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adversarial Learning with Local Coordinate Coding</title>
-      <link>/publication/lccgan/</link>
-      <pubDate>Wed, 07 Feb 2018 00:18:12 -0800</pubDate>
-      <guid>/publication/lccgan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
-      <link>/publication/dcp/</link>
-      <pubDate>Thu, 02 Jun 2016 00:18:12 -0800</pubDate>
-      <guid>/publication/dcp/</guid>
       <description></description>
     </item>
     
