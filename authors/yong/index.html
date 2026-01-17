@@ -478,7 +478,7 @@
     
     
     <div align="justify">
-    <p>I am an assistant chief scientist at Huawei and lead a research team. Previously, I worked as a post-doctoral researcher at Max Planck Institute for Informatics (MPI-INF), working with <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele">Prof. Bernt Schiele</a>. Before that, I obtained my PhD degree from South China University of Technology. My research interests include machine learning and computer vision.</p>
+    <p>I am an assistant chief scientist at Huawei and lead a research team. Previously, I worked as a post-doctoral researcher at Max Planck Institute for Informatics (MPI-INF), working with Prof. Bernt Schiele. Before that, I obtained my PhD degree from South China University of Technology. My research interests include machine learning and computer vision.</p>
 <p><strong><a href="#about">[Hiring!]</a></strong> Actively recruiting <a href="#tags">research interns</a>, scientists, and engineers, who would like to work in Shanghai. Please feel free to contact me!</p>
 
     </div>
@@ -636,6 +636,23 @@
     <footer class="site-footer">
   
 
+      <div id="clustrmaps-widget">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_-qGWw-tYf9qJJv0lBzQ3tXl7fAf6TTOcQM6g-H5LWU&cl=ffffff&w=a"></script>
+    </div>
+
+    <script>
+        
+        var checkExist = setInterval(function() {
+           var link = document.querySelector('#clustrmaps-widget a');
+           if (link) {
+              link.removeAttribute('href'); 
+              link.style.cursor = 'default'; 
+              link.onclick = function(e) { e.preventDefault(); }; 
+              clearInterval(checkExist);
+           }
+        }, 500); 
+    </script>
+
   <p class="powered-by">
     
 
@@ -648,6 +665,11 @@
         </span>
       </a>
     </span>
+
+
+    
+
+
     
   </p>
 </footer>

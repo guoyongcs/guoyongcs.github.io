@@ -405,15 +405,11 @@
         </li>
         
         <li>
-          <a href="/talk/lccgan_jrnl/">Improving Generative Adversarial Networks with Local Coordinate Coding</a>
-        </li>
-        
-        <li>
-          <a href="/talk/dinas/">Disturbance-immune Weight Sharing for Neural Architecture Search</a>
-        </li>
-        
-        <li>
           <a href="/talk/dkp/">Discrimination-aware Network Pruning for Deep Model Compression</a>
+        </li>
+        
+        <li>
+          <a href="/talk/lccgan_jrnl/">Improving Generative Adversarial Networks with Local Coordinate Coding</a>
         </li>
         
       </ul>
@@ -541,6 +537,23 @@
     <footer class="site-footer">
   
 
+      <div id="clustrmaps-widget">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_-qGWw-tYf9qJJv0lBzQ3tXl7fAf6TTOcQM6g-H5LWU&cl=ffffff&w=a"></script>
+    </div>
+
+    <script>
+        
+        var checkExist = setInterval(function() {
+           var link = document.querySelector('#clustrmaps-widget a');
+           if (link) {
+              link.removeAttribute('href'); 
+              link.style.cursor = 'default'; 
+              link.onclick = function(e) { e.preventDefault(); }; 
+              clearInterval(checkExist);
+           }
+        }, 500); 
+    </script>
+
   <p class="powered-by">
     
 
@@ -553,6 +566,11 @@
         </span>
       </a>
     </span>
+
+
+    
+
+
     
   </p>
 </footer>

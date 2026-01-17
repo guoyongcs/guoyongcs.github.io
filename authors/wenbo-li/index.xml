@@ -20,22 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>One Diffusion Step to Real-World Super-Resolution via Flow Trajectory Distillation</title>
-      <link>/publication/fluxsr/</link>
-      <pubDate>Thu, 01 May 2025 00:18:12 -0800</pubDate>
-      <guid>/publication/fluxsr/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>UltraPixel: Advancing Ultra-High-Resolution Image Synthesis to New Peaks</title>
-      <link>/publication/ultrapixel/</link>
-      <pubDate>Sun, 21 Jul 2024 00:18:12 -0800</pubDate>
-      <guid>/publication/ultrapixel/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

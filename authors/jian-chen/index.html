@@ -401,7 +401,7 @@
         </li>
         
         <li>
-          <a href="/talk/concutmix/">Enhanced Long-Tailed Recognition with Contrastive CutMix Augmentation</a>
+          <a href="/talk/nat&#43;&#43;/">Towards Accurate and Compact Architectures via Neural Architecture Transformer</a>
         </li>
         
         <li>
@@ -409,31 +409,11 @@
         </li>
         
         <li>
-          <a href="/talk/nat&#43;&#43;/">Towards Accurate and Compact Architectures via Neural Architecture Transformer</a>
-        </li>
-        
-        <li>
-          <a href="/talk/cac/">Content-Aware Convolutional Neural Networks</a>
+          <a href="/talk/concutmix/">Enhanced Long-Tailed Recognition with Contrastive CutMix Augmentation</a>
         </li>
         
         <li>
           <a href="/talk/aegan/">Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis</a>
-        </li>
-        
-        <li>
-          <a href="/talk/mwbp/">Multi-way Backpropagation for Training Compact Deep Neural Networks</a>
-        </li>
-        
-        <li>
-          <a href="/talk/hnas/">Hierarchical Neural Architecture Search for Single Image Super-Resolution</a>
-        </li>
-        
-        <li>
-          <a href="/talk/cacp/">Conditional Automated Channel Pruning for Deep Neural Networks</a>
-        </li>
-        
-        <li>
-          <a href="/talk/patg/">Online Feature Selection of Class Imbalance via PA Algorithm</a>
         </li>
         
       </ul>
@@ -561,6 +541,23 @@
     <footer class="site-footer">
   
 
+      <div id="clustrmaps-widget">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_-qGWw-tYf9qJJv0lBzQ3tXl7fAf6TTOcQM6g-H5LWU&cl=ffffff&w=a"></script>
+    </div>
+
+    <script>
+        
+        var checkExist = setInterval(function() {
+           var link = document.querySelector('#clustrmaps-widget a');
+           if (link) {
+              link.removeAttribute('href'); 
+              link.style.cursor = 'default'; 
+              link.onclick = function(e) { e.preventDefault(); }; 
+              clearInterval(checkExist);
+           }
+        }, 500); 
+    </script>
+
   <p class="powered-by">
     
 
@@ -573,6 +570,11 @@
         </span>
       </a>
     </span>
+
+
+    
+
+
     
   </p>
 </footer>

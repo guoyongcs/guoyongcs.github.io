@@ -5,12 +5,30 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2026 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>
+      <link>/talk/nat&#43;&#43;/</link>
+      <pubDate>Tue, 26 May 2026 00:18:12 -0800</pubDate>
+      <guid>/talk/nat&#43;&#43;/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards Lightweight Super-Resolution with Dual Regression Learning</title>
+      <link>/talk/drc/</link>
+      <pubDate>Mon, 12 May 2025 00:18:12 -0800</pubDate>
+      <guid>/talk/drc/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
     
     <item>
       <title>DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model</title>
@@ -31,96 +49,10 @@
     </item>
     
     <item>
-      <title>Towards Lightweight Super-Resolution with Dual Regression Learning</title>
-      <link>/talk/drc/</link>
-      <pubDate>Sun, 12 May 2024 00:18:12 -0800</pubDate>
-      <guid>/talk/drc/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Automated Dominative Subspace Mining for Efficient Neural Architecture Search</title>
-      <link>/talk/dsmnas/</link>
-      <pubDate>Thu, 02 May 2024 00:18:12 -0800</pubDate>
-      <guid>/talk/dsmnas/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Towards Accurate and Compact Architectures via Neural Architecture Transformer</title>
-      <link>/talk/nat&#43;&#43;/</link>
-      <pubDate>Thu, 26 May 2022 00:18:12 -0800</pubDate>
-      <guid>/talk/nat&#43;&#43;/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Content-Aware Convolutional Neural Networks</title>
-      <link>/talk/cac/</link>
-      <pubDate>Tue, 25 May 2021 00:18:12 -0800</pubDate>
-      <guid>/talk/cac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Auto-Embedding Generative Adversarial Networks for High Resolution Image Synthesis</title>
       <link>/talk/aegan/</link>
       <pubDate>Fri, 29 Mar 2019 00:18:12 -0800</pubDate>
       <guid>/talk/aegan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-way Backpropagation for Training Compact Deep Neural Networks</title>
-      <link>/talk/mwbp/</link>
-      <pubDate>Sat, 02 Mar 2019 00:18:12 -0800</pubDate>
-      <guid>/talk/mwbp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disturbance-immune Weight Sharing for Neural Architecture Search</title>
-      <link>/talk/dinas/</link>
-      <pubDate>Tue, 25 Sep 2018 00:18:12 -0800</pubDate>
-      <guid>/talk/dinas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical Neural Architecture Search for Single Image Super-Resolution</title>
-      <link>/talk/hnas/</link>
-      <pubDate>Wed, 06 Sep 2017 00:18:12 -0800</pubDate>
-      <guid>/talk/hnas/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Conditional Automated Channel Pruning for Deep Neural Networks</title>
-      <link>/talk/cacp/</link>
-      <pubDate>Tue, 05 Sep 2017 00:18:12 -0800</pubDate>
-      <guid>/talk/cacp/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep View Synthesis via Self-Consistent Generative Network</title>
-      <link>/talk/scgn/</link>
-      <pubDate>Sun, 06 Aug 2017 00:18:12 -0800</pubDate>
-      <guid>/talk/scgn/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Online Feature Selection of Class Imbalance via PA Algorithm</title>
-      <link>/talk/patg/</link>
-      <pubDate>Fri, 01 Jul 2016 00:18:12 -0800</pubDate>
-      <guid>/talk/patg/</guid>
       <description></description>
     </item>
     

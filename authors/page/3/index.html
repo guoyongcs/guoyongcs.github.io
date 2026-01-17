@@ -419,7 +419,7 @@
       <li><a href="/authors/david-stutz/">David Stutz</a></li>
     
       
-      <li><a href="/authors/yaofo-chen/">Yaofo Chen$^*$</a></li>
+      <li><a href="/authors/yaofo-chen/">Yaofo Chen</a></li>
     
       
       <li><a href="/authors/minli-li/">Minli Li</a></li>
@@ -431,7 +431,7 @@
       <li><a href="/authors/yaowei-wang/">Yaowei Wang</a></li>
     
       
-      <li><a href="/authors/kewei-zhang/">Kewei Zhang</a></li>
+      <li><a href="/authors/zhipeng-li/">Zhipeng Li</a></li>
     
   </ul>
 
@@ -569,6 +569,23 @@
     <footer class="site-footer">
   
 
+      <div id="clustrmaps-widget">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_-qGWw-tYf9qJJv0lBzQ3tXl7fAf6TTOcQM6g-H5LWU&cl=ffffff&w=a"></script>
+    </div>
+
+    <script>
+        
+        var checkExist = setInterval(function() {
+           var link = document.querySelector('#clustrmaps-widget a');
+           if (link) {
+              link.removeAttribute('href'); 
+              link.style.cursor = 'default'; 
+              link.onclick = function(e) { e.preventDefault(); }; 
+              clearInterval(checkExist);
+           }
+        }, 500); 
+    </script>
+
   <p class="powered-by">
     
 
@@ -581,6 +598,11 @@
         </span>
       </a>
     </span>
+
+
+    
+
+
     
   </p>
 </footer>

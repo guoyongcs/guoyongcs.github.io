@@ -116,7 +116,7 @@
   
   <meta property="og:site_name" content="Yong Guo">
   <meta property="og:url" content="/authors/yaofo-chen/">
-  <meta property="og:title" content="Yaofo Chen$^*$ | Yong Guo">
+  <meta property="og:title" content="Yaofo Chen | Yong Guo">
   <meta property="og:description" content="Homepage of Yong Guo"><meta property="og:image" content="/img/icon-192.png">
   <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
   
@@ -138,7 +138,7 @@
 
 
 
-  <title>Yaofo Chen$^*$ | Yong Guo</title>
+  <title>Yaofo Chen | Yong Guo</title>
 
 </head>
 
@@ -372,7 +372,7 @@
   
 
 <div class="universal-wrapper pt-3">
-  <h1>Yaofo Chen$^*$</h1>
+  <h1>Yaofo Chen</h1>
 </div>
 
 
@@ -394,14 +394,6 @@
         
         <li>
           <a href="/publication/ctnas/">Contrastive Neural Architecture Search with Neural Architecture Comparators</a>
-        </li>
-        
-        <li>
-          <a href="/talk/dsmnas/">Automated Dominative Subspace Mining for Efficient Neural Architecture Search</a>
-        </li>
-        
-        <li>
-          <a href="/talk/cac/">Content-Aware Convolutional Neural Networks</a>
         </li>
         
       </ul>
@@ -529,6 +521,23 @@
     <footer class="site-footer">
   
 
+      <div id="clustrmaps-widget">
+      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_-qGWw-tYf9qJJv0lBzQ3tXl7fAf6TTOcQM6g-H5LWU&cl=ffffff&w=a"></script>
+    </div>
+
+    <script>
+        
+        var checkExist = setInterval(function() {
+           var link = document.querySelector('#clustrmaps-widget a');
+           if (link) {
+              link.removeAttribute('href'); 
+              link.style.cursor = 'default'; 
+              link.onclick = function(e) { e.preventDefault(); }; 
+              clearInterval(checkExist);
+           }
+        }, 500); 
+    </script>
+
   <p class="powered-by">
     
 
@@ -541,6 +550,11 @@
         </span>
       </a>
     </span>
+
+
+    
+
+
     
   </p>
 </footer>
