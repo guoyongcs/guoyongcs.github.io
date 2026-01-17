@@ -5,7 +5,7 @@
     <link>/authors/junzhou-huang/</link>
       <atom:link href="/authors/junzhou-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Junzhou Huang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jun 2122 00:18:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Sep 2125 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Junzhou Huang</title>
@@ -13,20 +13,20 @@
     </image>
     
     <item>
+      <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
+      <link>/publication/nat/</link>
+      <pubDate>Thu, 06 Sep 2125 00:18:12 -0800</pubDate>
+      <guid>/publication/nat/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
       <link>/publication/dcp/</link>
       <pubDate>Tue, 02 Jun 2122 00:18:12 -0800</pubDate>
       <guid>/publication/dcp/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
-      <link>/publication/nat/</link>
-      <pubDate>Sat, 06 Sep 2121 00:18:12 -0800</pubDate>
-      <guid>/publication/nat/</guid>
-      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
-</description>
     </item>
     
     <item>
