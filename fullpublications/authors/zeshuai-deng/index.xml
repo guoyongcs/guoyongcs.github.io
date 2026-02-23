@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeshuai Deng | Yong Guo</title>
+    <link>/authors/zeshuai-deng/</link>
+      <atom:link href="/authors/zeshuai-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zeshuai Deng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 Feb 2126 00:18:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Zeshuai Deng</title>
+      <link>/authors/zeshuai-deng/</link>
+    </image>
+    
+    <item>
+      <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
+      <link>/publication/drn/</link>
+      <pubDate>Sun, 24 Feb 2126 00:18:12 -0800</pubDate>
+      <guid>/publication/drn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Lightweight Super-Resolution with Dual Regression Learning</title>
+      <link>/talk/drc/</link>
+      <pubDate>Mon, 12 May 2025 00:18:12 -0800</pubDate>
+      <guid>/talk/drc/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yong Guo</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution</title>
+      <link>/publication/drn/</link>
+      <pubDate>Sun, 24 Feb 2126 00:18:12 -0800</pubDate>
+      <guid>/publication/drn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NAT: Neural Architecture Transformer for Accurate and Compact Architectures</title>
+      <link>/publication/nat/</link>
+      <pubDate>Thu, 06 Sep 2125 00:18:12 -0800</pubDate>
+      <guid>/publication/nat/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MambaIRv2: Attentive State Space Restoration</title>
+      <link>/publication/mambairv2/</link>
+      <pubDate>Wed, 21 Feb 2125 00:18:12 -0800</pubDate>
+      <guid>/publication/mambairv2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrimination-aware Channel Pruning for Deep Neural Networks</title>
+      <link>/publication/dcp/</link>
+      <pubDate>Tue, 02 Jun 2122 00:18:12 -0800</pubDate>
+      <guid>/publication/dcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robustifying Token Attention for Vision Transformers</title>
+      <link>/publication/tapadl/</link>
+      <pubDate>Sun, 21 Jul 2120 00:18:12 -0800</pubDate>
+      <guid>/publication/tapadl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search</title>
+      <link>/publication/cnas/</link>
+      <pubDate>Sat, 01 Jun 2120 00:18:12 -0800</pubDate>
+      <guid>/publication/cnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contrastive Neural Architecture Search with Neural Architecture Comparators</title>
+      <link>/publication/ctnas/</link>
+      <pubDate>Wed, 07 Feb 2120 00:19:12 -0800</pubDate>
+      <guid>/publication/ctnas/</guid>
+      <description>&lt;h1 id=&#34;example-imagepagejpg&#34;&gt;&lt;img src=&#34;page.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
