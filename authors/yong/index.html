@@ -39,7 +39,7 @@
   
   
   
-  <meta name="theme-color" content="#2962ff">
+  <meta name="theme-color" content="#1565c0">
   
 
   
@@ -77,7 +77,7 @@
   
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cutive+Mono%7CLora:400,700%7CRoboto:400,700&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
   
 
   
@@ -159,8 +159,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
         
       </div>
 
@@ -353,10 +352,6 @@
     </div>
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-      
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
       
 
       
@@ -560,45 +555,13 @@
     
 
     
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
 
     
     
 
     
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
 
     
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
     
 
     
@@ -616,12 +579,10 @@
     
     
     
-      
     
     
     
-    
-    <script src="/js/academic.min.bcfae8267aba63cc55af53a503896bd9.js"></script>
+    <script src="/js/academic.min.0e306e8373c36761cd7c6bcf5dfb6df2.js"></script>
 
     
 
@@ -636,22 +597,45 @@
     <footer class="site-footer">
   
 
-      <div id="clustrmaps-widget">
-      <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_-qGWw-tYf9qJJv0lBzQ3tXl7fAf6TTOcQM6g-H5LWU&cl=ffffff&w=a"></script>
-    </div>
+      
+      <style>
+        #clustrmaps-wrapper {
+          width: 100%;
+          max-width: 1200px;
+          margin: -3rem auto 0 auto;
+          padding: 0 15px;
+          box-sizing: border-box;
+        }
+        #clustrmaps-widget {
+          width: 100%;
+          overflow: hidden;
+        }
+        #clustrmaps-widget iframe,
+        #clustrmaps-widget canvas,
+        #clustrmaps-widget img {
+          width: 100% !important;
+          height: auto !important;
+          display: block;
+        }
+      </style>
+      <div id="clustrmaps-wrapper">
+        <div id="clustrmaps-widget">
+          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_-qGWw-tYf9qJJv0lBzQ3tXl7fAf6TTOcQM6g-H5LWU&cl=ffffff&w=a"></script>
+        </div>
+      </div>
 
-    <script>
-        
+      <script>
         var checkExist = setInterval(function() {
-           var link = document.querySelector('#clustrmaps-widget a');
-           if (link) {
-              link.removeAttribute('href'); 
-              link.style.cursor = 'default'; 
-              link.onclick = function(e) { e.preventDefault(); }; 
-              clearInterval(checkExist);
-           }
-        }, 500); 
-    </script>
+          var link = document.querySelector('#clustrmaps-widget a');
+          if (link) {
+            link.removeAttribute('href');
+            link.style.cursor = 'default';
+            link.onclick = function(e) { e.preventDefault(); };
+            clearInterval(checkExist);
+          }
+        }, 500);
+      </script>
+      
 
   <p class="powered-by">
     

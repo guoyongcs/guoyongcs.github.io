@@ -2,8 +2,8 @@
   "name": "Yong Guo",
   "short_name": "Yong Guo",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",
