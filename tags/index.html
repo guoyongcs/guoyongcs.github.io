@@ -504,17 +504,6 @@
       </style>
       
 
-      <script>
-        var checkExist = setInterval(function() {
-          var link = document.querySelector('#clustrmaps-widget a');
-          if (link) {
-            link.removeAttribute('href');
-            link.style.cursor = 'default';
-            link.onclick = function(e) { e.preventDefault(); };
-            clearInterval(checkExist);
-          }
-        }, 500);
-      </script>
       
 
   <p class="powered-by">

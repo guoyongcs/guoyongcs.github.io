@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Haolin Pan$^*$ | Yong Guo</title>
-    <link>/authors/haolin-pan/</link>
-      <atom:link href="/authors/haolin-pan/index.xml" rel="self" type="application/rss+xml" />
-    <description>Haolin Pan$^*$</description>
+    <title>Haolin Pan&lt;sup&gt;*&lt;/sup&gt; | Yong Guo</title>
+    <link>/authors/haolin-pansup/sup/</link>
+      <atom:link href="/authors/haolin-pansup/sup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haolin Pan&lt;sup&gt;*&lt;/sup&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jun 2024 00:18:12 -0800</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
-      <title>Haolin Pan$^*$</title>
-      <link>/authors/haolin-pan/</link>
+      <title>Haolin Pan&lt;sup&gt;*&lt;/sup&gt;</title>
+      <link>/authors/haolin-pansup/sup/</link>
     </image>
     
     <item>

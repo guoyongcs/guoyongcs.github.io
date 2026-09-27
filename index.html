@@ -467,7 +467,6 @@
           <span></span>
           
         </h3>
-        <a href="https://scholar.google.com/citations?hl=en&user=VmLZOc0AAAAJ" target="_blank">Google Scholar</a>
         
       </div>
 
@@ -521,6 +520,54 @@
         </li>
         
       </ul>
+
+      
+      
+      <div id="visit-stats">
+        <div id="visit-count">Total Visits: <span id="visit-count-num">&mdash;</span></div>
+        <div id="visitor-map"></div>
+      </div>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/jsvectormap@1.5.3/dist/css/jsvectormap.min.css">
+      <script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.5.3/dist/js/jsvectormap.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.5.3/dist/maps/world.js"></script>
+      <script>
+        (function () {
+          var endpoint = "http:\/\/127.0.0.1:8787";
+          var counted = false;
+          try { counted = sessionStorage.getItem('visit_counted') === '1'; } catch (e) {}
+          fetch(counted ? endpoint + '?count=0' : endpoint)
+            .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+            .then(function (data) {
+              try { sessionStorage.setItem('visit_counted', '1'); } catch (e) {}
+              document.getElementById('visit-count-num').textContent = data.total;
+              
+              var counts = data.countries || {};
+              var max = 1;
+              for (var c in counts) { if (counts[c] > max) max = counts[c]; }
+              var palette = ['#7ba9e3', '#5b8fd6', '#3a76c6', '#2058a8', '#0d47a1'];
+              var values = {}, scaleMap = {};
+              palette.forEach(function (col, i) { scaleMap[i + 1] = col; });
+              for (var c in counts) {
+                values[c] = 1 + Math.min(palette.length - 1,
+                  Math.floor(Math.log(counts[c] + 1) / Math.log(max + 1) * palette.length));
+              }
+              new jsVectorMap({
+                selector: '#visitor-map',
+                map: 'world',
+                zoomButtons: false,
+                zoomOnScroll: false,
+                draggable: false,
+                regionStyle: { initial: { fill: '#a6bcdb' } },
+                series: { regions: [{ attribute: 'fill', scale: scaleMap, values: values }] },
+              });
+            })
+            .catch(function () {
+              var el = document.getElementById('visit-stats');
+              if (el) el.style.display = 'none';
+            });
+        })();
+      </script>
+      
 
     </div>
   </div>
@@ -2779,17 +2826,6 @@
       </style>
       
 
-      <script>
-        var checkExist = setInterval(function() {
-          var link = document.querySelector('#clustrmaps-widget a');
-          if (link) {
-            link.removeAttribute('href');
-            link.style.cursor = 'default';
-            link.onclick = function(e) { e.preventDefault(); };
-            clearInterval(checkExist);
-          }
-        }, 500);
-      </script>
       
 
   <p class="powered-by">
