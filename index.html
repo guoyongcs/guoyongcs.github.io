@@ -532,7 +532,7 @@
       <script src="https://cdn.jsdelivr.net/npm/jsvectormap@1.5.3/dist/maps/world.js"></script>
       <script>
         (function () {
-          var endpoint = "http:\/\/127.0.0.1:8787";
+          var endpoint = "\/api\/visit";
           var counted = false;
           try { counted = sessionStorage.getItem('visit_counted') === '1'; } catch (e) {}
           fetch(counted ? endpoint + '?count=0' : endpoint)
