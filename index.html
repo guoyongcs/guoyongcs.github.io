@@ -564,6 +564,10 @@
                 draggable: false,
                 regionStyle: { initial: { fill: '#a6bcdb' } },
                 series: { regions: [{ attribute: 'fill', scale: scaleMap, values: values }] },
+                onRegionTooltipShow: function (event, tooltip, code) {
+                  var n = counts[code] || 0;
+                  tooltip.text(tooltip.text() + ': ' + n + ' visit' + (n === 1 ? '' : 's'));
+                }
               });
             })
             .catch(function () {
